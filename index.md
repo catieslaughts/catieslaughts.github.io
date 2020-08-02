@@ -3,7 +3,7 @@ I am an undergraduate in the class of 2021 studying Physics and Astronomy Dartmo
 
 ## Research Interests
 
-My topics of current research include:
+Topics of current research include:
 
 * Stellar Evolution Modeling
     * Pop II stars
