@@ -1,8 +1,8 @@
 
 ## CV
 <object data="WebsiteCV.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/catieslaughts/catieslaughts.github.io/blob/master/WebsiteCV.pdf">
-        <p>This browser does not support PDFs. Please download to view: <a href="https://github.com/catieslaughts/catieslaughts.github.io/blob/master/WebsiteCV.pdf">Download PDF</a>.</p>
+    <embed src="https://github.com/catieslaughts/catieslaughts.github.io/raw/master/WebsiteCV.pdf">
+        <p>This browser does not support PDFs. Please download to view: <a href="https://github.com/catieslaughts/catieslaughts.github.io/raw/master/WebsiteCV.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
