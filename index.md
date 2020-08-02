@@ -1,3 +1,5 @@
+Catherine Slaughter is an undergraduate in the class of 2021 at Dartmouth College, studying physics and astronomy. 
+
 
 ## CV
 <object data="WebsiteCV.pdf" type="application/pdf" width="700px" height="700px">
