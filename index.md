@@ -1,7 +1,20 @@
-Hi, I'm Catherine Slaughter. I am an undergraduate in the class of 2021 studying Physics and Astronomy Dartmouth College in Hanover, NH. After graduating, I plan to continue my education in an Astrophysics PhD program. I am passionate about STEM education and outreach, and want to continue working with the general public along with conducting my research. Outside of school and research, I am a **huge** Chicago Cubs baseball fan, I play the ukulele, and I love to travel.
+Hi, I'm Catherine Slaughter. I am an undergraduate in the class of 2021 studying Physics and Astronomy Dartmouth College in Hanover, NH. After graduating, I plan to continue my education in an Astrophysics PhD program. I am passionate about STEM education and outreach, and want to continue working with the general public along with conducting my research. Outside of school and research, I am a **huge** Chicago Cubs baseball fan, ukulele player, and avid hiker.
 
 
 ## Research Interests
+
+My topics of current research include:
+
+*Stellar Evolution Modeling
+    *Pop II stars
+    *Milky-way Globular cluster systems
+        *Main-sequence fitting and assorted numerical analysis
+    *Search for Pop III stars and stellar remnants
+    
+*High-energy Stellar Remnants
+    *X-ray Binary systems
+    
+In general, I am also interested in the applications of coding to all Astrophysics research. I have taken Computer Science coursework well beyond what is required for my undergraduate degree, and consistently apply those skills to my research.
 
 ## CV
 <object data="WebsiteCV.pdf" type="application/pdf" width="700px" height="700px">
@@ -12,4 +25,4 @@ Hi, I'm Catherine Slaughter. I am an undergraduate in the class of 2021 studying
 
 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<!--For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).-->
