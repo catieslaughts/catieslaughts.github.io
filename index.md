@@ -5,14 +5,14 @@ Hi, I'm Catherine Slaughter. I am an undergraduate in the class of 2021 studying
 
 My topics of current research include:
 
-*Stellar Evolution Modeling
-    *Pop II stars
-    *Milky-way Globular cluster systems
-        *Main-sequence fitting and assorted numerical analysis
-    *Search for Pop III stars and stellar remnants
+* Stellar Evolution Modeling
+    * Pop II stars
+    * Milky-way Globular cluster systems
+        * Main-sequence fitting and assorted numerical analysis
+    * Search for Pop III stars and stellar remnants
     
-*High-energy Stellar Remnants
-    *X-ray Binary systems
+* High-energy Stellar Remnants
+    * X-ray Binary systems
     
 In general, I am also interested in the applications of coding to all Astrophysics research. I have taken Computer Science coursework well beyond what is required for my undergraduate degree, and consistently apply those skills to my research.
 
