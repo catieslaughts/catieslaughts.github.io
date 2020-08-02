@@ -1,5 +1,7 @@
-Catherine Slaughter is an undergraduate in the class of 2021 at Dartmouth College, studying physics and astronomy. 
+Hi, I'm Catherine Slaughter. I am an undergraduate in the class of 2021 studying Physics and Astronomy Dartmouth College in Hanover, NH. After graduating, I plan to continue my education in an Astrophysics PhD program. I am passionate about STEM education and outreach, and want to continue working with the general public along with conducting my research. Outside of school and research, I am a **huge** Chicago Cubs baseball fan, I play the ukulele, and I love to travel.
 
+
+## Research Interests
 
 ## CV
 <object data="WebsiteCV.pdf" type="application/pdf" width="700px" height="700px">
