@@ -16,6 +16,10 @@ My topics of current research include:
     
 In general, I am also interested in the applications of coding to all Astrophysics research. I have taken Computer Science coursework well beyond what is required for my undergraduate degree, and consistently apply those skills to my research.
 
+# Publications
+
+Christina Gilligan, Brian Chaboyer, and Catherine M. Slaughter. Metal-Poor Calibrating Subdwarfs in the Gaia Era. *Submitted for Publication*, 2020.
+
 ## CV
 <object data="WebsiteCV.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://github.com/catieslaughts/catieslaughts.github.io/raw/master/WebsiteCV.pdf">
