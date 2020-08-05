@@ -23,12 +23,20 @@ Christina Gilligan, Brian Chaboyer, and Catherine M. Slaughter. Metal-Poor Calib
 ## CV
 
 [Download as PDF](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/WebsiteCV.pdf)
-<object data="websitecvpg1" type="application/jpg" width="100%" height="700px">
-    <embed>
-        <p>This browser does not support PDFs. Please download to view.</p>
-    <embed/>
-</object>
 
+<object
+  data="https://github.com/catieslaughts/catieslaughts.github.io/blob/master/websitecvpg1.jpg"
+  type="application/jpg"
+  width="100%"
+  height="700px">
+  <iframe
+    src="https://github.com/catieslaughts/catieslaughts.github.io/blob/master/websitecvpg1.jpg"
+    width="100%"
+    height="700px"
+    style="border: none;">
+    <p>Your browser does not support PDFs. </p>
+  </iframe>
+</object>
 
 
 <!--For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).-->
