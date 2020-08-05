@@ -1,4 +1,4 @@
-I am an undergraduate in the class of 2021 studying Physics and Astronomy Dartmouth College in Hanover, NH. After graduating, I plan to continue my education in an Astrophysics PhD program. I am passionate about STEM education and outreach, and want to continue working with the general public along with conducting my research. Outside of school and research, I am a **huge** Chicago Cubs baseball fan, ukulele player, and avid hiker.
+tesrtI am an undergraduate in the class of 2021 studying Physics and Astronomy Dartmouth College in Hanover, NH. After graduating, I plan to continue my education in an Astrophysics PhD program. I am passionate about STEM education and outreach, and want to continue working with the general public along with conducting my research. Outside of school and research, I am a **huge** Chicago Cubs baseball fan, ukulele player, and avid hiker.
 
 
 ## Research Interests
@@ -26,7 +26,6 @@ Some examples of significant written reports and poster presentations, both from
 
 * Refining the Age of the Universe Using Globular Clusters: Prerequisite Work [(Poster)](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/thesisPrelim.pdf)
    * Preliminary work for Senior Thesis project. Poster presented virtually at Physics and Astronomy Department Symposium May 2020
-
 <img src="images_pdfs/thesisPrelim.jpg" width="50%">
 * Using SED Model Fitting to Search for Star-Forming Galaxies at z>4.5 [(Paper)](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/A25FinalProj.pdf) [(Poster)](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/Slaughter_catherine_finalPoster.pdf)
    * Final project for an intermediate-level Astronomy class ("Galaxies and Cosmology")
