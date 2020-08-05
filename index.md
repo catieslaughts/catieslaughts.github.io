@@ -20,13 +20,26 @@ In general, I am also interested in the applications of coding to all Astrophysi
 
 Christina Gilligan, Brian Chaboyer, and Catherine M. Slaughter. Metal-Poor Calibrating Subdwarfs in the Gaia Era. *Submitted for Publication*, 2020.
 
-## Research Papers and Posters
+## Research Projects
 
 Some examples of significant written reports and poster presentations, both from coursework and paid research work.
-* Papers:
-* Posters:
-   * Refining the Age of the Universe Using Globular Clusters: Prerequisite Work [(PDF)](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/thesisPrelim.pdf)
-   <img src="images_pdfs/thesisPrelim.jpg" width="50%">
+
+* Refining the Age of the Universe Using Globular Clusters: Prerequisite Work [(Poster)](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/thesisPrelim.pdf)
+   * Preliminary work for Senior Thesis project. Poster presented virtually at Physics and Astronomy Department Symposium May 2020
+<img src="images_pdfs/thesisPrelim.jpg" width="50%">
+* Using SED Model Fitting to Search for Star-Forming Galaxies at z>4.5 [(Paper)](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/A25FinalProj.pdf) [(Poster)](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/Slaughter_catherine_finalPoster.pdf)
+   * Final project for an intermediate-level Astronomy class ("Galaxies and Cosmology")
+<img src="images_pdfs/Slaughter_catherine_finalPoster.jpg" width="50%">
+* Computer Modeling and Simulation Project [(Report)](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/P50ModelingProj.pdf)
+   * Coding project for an upper-level Quantum Mechanics class. Code written in MATLAB
+* Polyphonic Digital Synthesizer [(Report)](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/ENGS31FinalReport.pdf)
+   * Final project for a Digital Electronics class. Code written primarily in VHDL.
+* A Deeper Analysis of Cataclysmic Variable V383 Vel [(Paper)](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/A81FinalProj.pdf)
+   * Final Paper for a Special Topics class in Astronomy. Completed as part of a study abroad to South Africa in Winter 2019. Project included a week-long observing run at SAAO
+* Improving Metal-Poor Stellar Evolution Models [(Poster)](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/StellarEvolutionWISPPoster.pdf)
+   * Presented at Wetterhan Science Symposium May 2018. Research was done as an intern of the Women In Science Project (WISP) at Dartmouth College
+<img src="images_pdfs/StellarEvolutionWISPPoster.jpg" width="50%">
+
 
 ## CV
 
