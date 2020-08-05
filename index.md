@@ -21,7 +21,7 @@ In general, I am also interested in the applications of coding to all Astrophysi
 Christina Gilligan, Brian Chaboyer, and Catherine M. Slaughter. Metal-Poor Calibrating Subdwarfs in the Gaia Era. *Submitted for Publication*, 2020.
 
 ## CV
-<object data="WebsiteCV.pdf" type="application/pdf" width="700px" height="700px">
+<object data="WebsiteCV.pdf" type="application/pdf" width="100%" height="100%">
     <embed src="https://github.com/catieslaughts/catieslaughts.github.io/raw/master/WebsiteCV.pdf">
         <p>This browser does not support PDFs. Please download to view: <a href="https://github.com/catieslaughts/catieslaughts.github.io/raw/master/WebsiteCV.pdf">Download PDF</a>.</p>
     </embed>
