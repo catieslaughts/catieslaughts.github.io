@@ -26,7 +26,7 @@ Some examples of significant written reports and poster presentations, both from
 
 * Refining the Age of the Universe Using Globular Clusters: Prerequisite Work [(Poster)](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/thesisPrelim.pdf)
    * Preliminary work for Senior Thesis project. Poster presented virtually at Physics and Astronomy Department Symposium May 2020
-   <img src="images_pdfs/thesisPrelim.jpg" width="50%">
+   <img src="images_pdfs/thesisPrelim.jpg" width="60%">
 * Using SED Model Fitting to Search for Star-Forming Galaxies at z>4.5 [(Paper)](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/A25FinalProj.pdf) [(Poster)](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/Slaughter_catherine_finalPoster.pdf)
    * Final project for an intermediate-level Astronomy class ("Galaxies and Cosmology")
 <img src="images_pdfs/Slaughter_catherine_finalPoster.jpg" width="50%">
@@ -38,7 +38,7 @@ Some examples of significant written reports and poster presentations, both from
    * Final Paper for a Special Topics class in Astronomy. Completed as part of a study abroad to South Africa in Winter 2019. Project included a week-long observing run at SAAO
 * Improving Metal-Poor Stellar Evolution Models [(Poster)](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/StellarEvolutionWISPPoster.pdf)
    * Presented at Wetterhan Science Symposium May 2018. Research was done as an intern of the Women In Science Project (WISP) at Dartmouth College
-<img src="images_pdfs/StellarEvolutionWISPPoster.jpg" width="50%">
+<img src="images_pdfs/StellarEvolutionWISPPoster.jpg" width="60%">
 
 
 ## CV
