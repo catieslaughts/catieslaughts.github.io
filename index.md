@@ -25,7 +25,7 @@ Christina Gilligan, Brian Chaboyer, and Catherine M. Slaughter. Metal-Poor Calib
 Some examples of significant written reports and poster presentations, both from coursework and paid research work.
 * Papers:
 * Posters:
-   * Refining the Age of the Universe Using Globular Clusters: Prerequisite Work[(PDF)](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/thesisPrelim.pdf)
+   * Refining the Age of the Universe Using Globular Clusters: Prerequisite Work [(PDF)](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/thesisPrelim.pdf)
    <img src="images_pdfs/thesisPrelim.jpg" width="50%">
 
 ## CV
