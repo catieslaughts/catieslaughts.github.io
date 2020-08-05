@@ -20,10 +20,13 @@ In general, I am also interested in the applications of coding to all Astrophysi
 
 Christina Gilligan, Brian Chaboyer, and Catherine M. Slaughter. Metal-Poor Calibrating Subdwarfs in the Gaia Era. *Submitted for Publication*, 2020.
 
-## Research Papers/Posters
+## Research Papers and Posters
 
 Some examples of significant written reports and poster presentations, both from coursework and paid research work.
-* Refining the Age of the Universe Using Globular Clusters: Prerequisite Work [Download as PDF](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/websitecv.pdf)
+* Papers:
+* Posters:
+   *Refining the Age of the Universe Using Globular Clusters: Prerequisite Work[(PDF)](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/thesisPrelim.pdf)
+   <img src="images_pdfs/thesisPrelim.jpg" width="50%">
 
 ## CV
 
