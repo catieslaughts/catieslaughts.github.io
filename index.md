@@ -29,13 +29,13 @@ Christina Gilligan, Brian Chaboyer, and Catherine M. Slaughter. Metal-Poor Calib
   type="application/jpg"
   width="100%"
   height="700px">
-  <iframe
+  <!--<iframe
     src="https://github.com/catieslaughts/catieslaughts.github.io/blob/master/websitecvpg1.jpg"
     width="100%"
     height="700px"
     style="border: none;">
     <p>Your browser does not support PDFs. </p>
-  </iframe>
+  </iframe>-->
 </object>
 
 
