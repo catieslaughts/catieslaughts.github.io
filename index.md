@@ -24,9 +24,9 @@ Christina Gilligan, Brian Chaboyer, and Catherine M. Slaughter. Metal-Poor Calib
 
 [Download as PDF](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/WebsiteCV.pdf)
 <object data="websitecvpg1" type="application/jpg" width="100%" height="700px">
-    <embed src="https://github.com/catieslaughts/catieslaughts.github.io/raw/master/WebsiteCV.pdf">
+    <embed>
         <p>This browser does not support PDFs. Please download to view.</p>
-    />
+    <embed/>
 </object>
 
 
