@@ -24,6 +24,9 @@ Christina Gilligan, Brian Chaboyer, and Catherine M. Slaughter. Metal-Poor Calib
 
 Some examples of significant written reports and poster presentations, both from coursework and paid research work.
 
+* Analyzing Straylight X-Ray Binaries with NuSTAR [(Poster)](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/SURFfinalPoster.pdf)
+   * SURF project completed Summer 2020. Poster presented at virtual seminar for Caltech SFP students. 
+   <img src="images_pdfs/SURFfinalPoster.jpg" width="60%">
 * Refining the Age of the Universe Using Globular Clusters: Prerequisite Work [(Poster)](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/thesisPrelim.pdf)
    * Preliminary work for Senior Thesis project. Poster presented virtually at Physics and Astronomy Department Symposium May 2020
    <img src="images_pdfs/thesisPrelim.jpg" width="60%">
