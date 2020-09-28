@@ -2,21 +2,3 @@ remote_theme: catieslaughts/minimal
 title: Catherine Slaughter
 description: She/Her <br> Proto-Astrophysicist | Scicomm Enthusiast
 logo: images_pdfs/IMG_0386.png
-
-owner:
-  name: Ted Laderas
-  avatar: bio-photo.jpg
-  bio: "TEST."
-  email: 
-  # Do not include the @ symbol in your Twitter username
-  twitter: laderast
-  linkedin: #username
-  github: laderast
-  orcid: # ID Number (ex. 0000-0000-0000-0000)
-  researchgate: #username
-  mendeley: #username
-  google:
-    plus: #username
-    analytics:
-    verify:
-    scholar: #id
