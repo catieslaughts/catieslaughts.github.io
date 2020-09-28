@@ -1,3 +1,11 @@
+- Introduction: introduction
+- - Sub Menu: sub-menu-example
+- Examples: examples
+- - Headings: headings
+- - Tables: tables
+- - Code: code
+
+## Introduction
 I am an undergraduate studying Physics and Astronomy at Dartmouth College in Hanover, NH. After graduating, I plan to continue my education in an Astrophysics PhD program. I am passionate about STEM education and outreach, and want to continue working with the general public along with conducting my research. Outside of school and research, I am a **huge** Chicago Cubs baseball fan, ukulele player, and avid hiker.
 
 
