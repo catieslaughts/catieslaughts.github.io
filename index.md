@@ -20,6 +20,10 @@ In general, I am also interested in the applications of coding to all Astrophysi
 
 Christina Gilligan, Brian Chaboyer, and Catherine M. Slaughter. Metal-Poor Calibrating Subdwarfs in the Gaia Era. *Submitted for Publication*, 2020.
 
+Catherine M. Slaughter and Brian Chaboyer. Refining the Age of the Universe Using GlobularClusters. *In Preparation*, 2021.
+
+Catherine M. Slaughter, R.M. Ludlam, and Brian Grefenstette. A Straylight Analysis of NSLMXB GX17+2. *In Preparation*, 2021
+
 ## Research Projects
 
 Some examples of significant written reports and poster presentations, both from coursework and paid research work.
