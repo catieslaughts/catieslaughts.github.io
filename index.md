@@ -1,4 +1,6 @@
 
+
+
 ## Introduction
 I am an undergraduate studying Physics and Astronomy at Dartmouth College in Hanover, NH. After graduating, I plan to continue my education in an Astrophysics PhD program. I am passionate about STEM education and outreach, and want to continue working with the general public along with conducting my research. Outside of school and research, I am a **huge** Chicago Cubs baseball fan, ukulele player, and avid hiker.
 
@@ -10,10 +12,10 @@ Topics of current research include:
 * Stellar Evolution Modeling
     * Pop II stars
     * Milky-way Globular cluster systems
-        * Main-sequence fitting and assorted numerical analysis
+        * Main-sequence fitting and assorted numerical analyses
     * Search for Pop III stars and stellar remnants
     
-* High-energy Stellar Remnants
+* High-energy Stellar Systems
     * X-ray Binary systems
     
 In general, I am also interested in the applications of coding to all Astrophysics research. I have taken Computer Science coursework well beyond what is required for my undergraduate degree, and consistently apply those skills to my research.
@@ -22,9 +24,11 @@ In general, I am also interested in the applications of coding to all Astrophysi
 
 Christina Gilligan, Brian Chaboyer, and Catherine M. Slaughter. Metal-Poor Calibrating Subdwarfs in the Gaia Era. *Submitted for Publication*, 2020.
 
+Brian Grefenstette et al. StrayCats: A catalog of NuSTAR Stray Light Observations. *Submitted for Publication*, 2020.
+
 Catherine M. Slaughter and Brian Chaboyer. Refining the Age of the Universe Using Globular Clusters. *In Preparation*, 2021.
 
-Catherine M. Slaughter, R.M. Ludlam, and Brian Grefenstette. A Straylight Analysis of NSLMXB GX17+2. *In Preparation*, 2021.
+Catherine M. Slaughter, R.M. Ludlam, and Brian Grefenstette. A Straylight Analysis of NS LMXB GX17+2. *In Preparation*, 2021.
 
 ## Research Projects
 
