@@ -66,7 +66,7 @@ Some examples of significant written reports and poster presentations, both from
 
 ## CV
 
-The MOST recent version of my CV can always be found on [Overleaf](https://www.overleaf.com/read/rgjgxdyfkwcc)
+The MOST recent version of my CV can always be found on [Overleaf](https://www.overleaf.com/read/rgjgxdyfkwcc){:target="_blank"}
 
 [Download as PDF](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/WebsiteCV.pdf) (Updated 10/27/2020)
 
