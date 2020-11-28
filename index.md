@@ -67,6 +67,7 @@ Some examples of significant written reports and poster presentations, both from
 ## CV
 
 [Download as PDF](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/WebsiteCV.pdf)
+
 <img src="images_pdfs/WebsiteCV_pg1.jpg" width="70%">
 <img src="images_pdfs/WebsiteCV_pg2.jpg" width="70%">
 
