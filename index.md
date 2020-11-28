@@ -1,4 +1,4 @@
-<span style="color:#f7f7f7">Oh, hi, you found this hidden text, this was written to debug my HTML and Markdown...</span>
+<span style="color:#f7f7f7">Oh, hi, you found this hidden text, this was written to test my HTML and Markdown...</span>
 
 ## Introduction
 Hi! I'm Catherine and I am a fourth-year undergraduate studying Physics and Astronomy at Dartmouth College in Hanover, NH. After graduating in June 2021, I plan to pursue a PhD in astronomy and astrophysics (please let me into your grad program). I am passionate about STEM education and outreach, and want to continue working with the general public along with conducting my research. I am dedicated to affirmative inclusivity in the sciences--not just "diversity"--working both toward personal growth and institutional change. I have served as a mentor for underprivileged students, and helped found a BIPOC big sibling program at my small, all-women's high school. This program aims to help students of color combat imposter syndrome, and to encourage them to pursue any field of interest! Outside of school and research, I am a huge Chicago Cubs baseball fan, ukulele player, and avid hiker. 
@@ -53,7 +53,7 @@ Some examples of significant written reports and poster presentations, both from
    <img src="images_pdfs/Slaughter_catherine_finalPoster.jpg" width="50%">
 * Computer Modeling and Simulation Project [(Report)](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/P50ModelingProj.pdf)
    * Coding project for an intermediate-level Quantum Mechanics class. Code written in MATLAB
-* Polyphonic Digital Synthesizer [(Report)](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/ENGS31FinalReport.pdf) [(Git Repo)](https://github.com/catieslaughts/PolyphonicSynthesizer)
+* Polyphonic Digital Synthesizer [(Report)](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/ENGS31FinalReport.pdf) <a href="https://github.com/catieslaughts/PolyphonicSynthesizer" target="_blank" >Github Repo</a>
    * Final project for a Digital Electronics class. Code written primarily in VHDL.
 * A Deeper Analysis of Cataclysmic Variable V383 Vel [(Paper)](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/A81FinalProj.pdf)
    * Final Paper for a Special Topics class in Astronomy. Completed as part of a study abroad to South Africa in Winter 2019. Project included a week-long observing run at SAAO
