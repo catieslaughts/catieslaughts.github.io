@@ -53,7 +53,7 @@ Some examples of significant written reports and poster presentations, both from
    <img src="images_pdfs/Slaughter_catherine_finalPoster.jpg" width="50%">
 * Computer Modeling and Simulation Project [(Report)](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/P50ModelingProj.pdf)
    * Coding project for an intermediate-level Quantum Mechanics class. Code written in MATLAB
-* Polyphonic Digital Synthesizer [(Report)](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/ENGS31FinalReport.pdf) <a href="https://github.com/catieslaughts/PolyphonicSynthesizer" target="_blank" >Github Repo</a>
+* Polyphonic Digital Synthesizer [(Report)](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/ENGS31FinalReport.pdf) <a href="https://github.com/catieslaughts/PolyphonicSynthesizer" target="_blank" >(Github Repo)</a>
    * Final project for a Digital Electronics class. Code written primarily in VHDL.
 * A Deeper Analysis of Cataclysmic Variable V383 Vel [(Paper)](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/A81FinalProj.pdf)
    * Final Paper for a Special Topics class in Astronomy. Completed as part of a study abroad to South Africa in Winter 2019. Project included a week-long observing run at SAAO
