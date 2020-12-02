@@ -39,7 +39,7 @@ Catherine M. Slaughter, R.M. Ludlam, and Brian Grefenstette. A Straylight Analys
 
 Some examples of significant written reports and poster presentations, both from coursework and paid research work.
 
-* Modeling Tidal Disruption Events in a Classical Regime (Fall 2020) [Report ](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/Final_Report.pdf) <a href="https://github.com/catieslaughts/tidal-disruption-sim" target="_blank" >Github Repo</a>
+* Modeling Tidal Disruption Events in a Classical Regime (Fall 2020) [Report ](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/Final_Report.pdf) <a href="https://github.com/catieslaughts/tidal-disruption-sim" target="_blank" >Github</a>
    * Final project for a Physical Modeling class (COSC 89.18)
    * Written in C++
    
@@ -63,7 +63,7 @@ Some examples of significant written reports and poster presentations, both from
    * Coding project for an intermediate-level Quantum Mechanics class
    * Code written in MATLAB
    
-* Polyphonic Digital Synthesizer (Summer 2019) [Report ](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/ENGS31FinalReport.pdf) <a href="https://github.com/catieslaughts/PolyphonicSynthesizer" target="_blank" >Github Repo</a>
+* Polyphonic Digital Synthesizer (Summer 2019) [Report ](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/ENGS31FinalReport.pdf) <a href="https://github.com/catieslaughts/PolyphonicSynthesizer" target="_blank" >Github</a>
    * Final project for a Digital Electronics class
    * Code written primarily in VHDL
    
