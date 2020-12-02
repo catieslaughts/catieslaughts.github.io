@@ -39,6 +39,8 @@ Catherine M. Slaughter, R.M. Ludlam, and Brian Grefenstette. A Straylight Analys
 
 Some examples of significant written reports and poster presentations, both from coursework and paid research work.
 
+* Modeling Tidal Disruption Events in a Classical Regime [(Report)]() <a href="https://github.com/catieslaughts/tidal-disruption-sim" target="_blank" >(Github Repo)</a>
+
 * Analyzing Straylight X-Ray Binaries with NuSTAR [(Paper)](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/Slaughter_FinalReport.pdf)[(Poster)](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/SURFfinalPoster.pdf)
    * SURF project completed Summer 2020. Poster presented at virtual seminar for Caltech SFP students. 
    
