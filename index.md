@@ -35,12 +35,12 @@ Catherine M. Slaughter and Brian Chaboyer. Refining the Age of the Universe Usin
 
 Catherine M. Slaughter, R.M. Ludlam, and Brian Grefenstette. A Straylight Analysis of NS LMXB GX17+2. *In Preparation*, 2021.
 
-## Research Projects
+## Significant Research Projects
 
 Some examples of significant written reports and poster presentations, both from coursework and paid research work.
 
 * Modeling Tidal Disruption Events in a Classical Regime (Fall 2020) [Report ](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/Final_Report.pdf) <a href="https://github.com/catieslaughts/tidal-disruption-sim" target="_blank" >Github</a>
-   * Final project for a Physical Modeling class (COSC 89.18)
+   * Final project for an upper-level Physical Modeling class (COSC 89.18)
    * Written in C++
    
 * Analyzing Straylight X-Ray Binaries with NuSTAR (Summer 2020) [Report ](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/Slaughter_FinalReport.pdf)[Poster](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/SURFfinalPoster.pdf)
