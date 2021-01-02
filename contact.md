@@ -3,7 +3,7 @@ layout: default
 title: Contact
 permalink: /contact/
 ---
-## Contact Info.
+# Contact Info.
 
 As is true for most, the best way to contact me is through email!
 
