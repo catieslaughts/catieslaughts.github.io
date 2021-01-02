@@ -5,6 +5,8 @@ title: Catherine Slaughter
 
 <span style="color:#f7f7f7">Oh, hi, you found this hidden text, this was written to test my HTML and Markdown...</span>
 
+test
+
 ## Introduction
 Hi! I'm Catherine and I am a fourth-year undergraduate studying Physics and Astronomy at Dartmouth College in Hanover, NH. After graduating in June 2021, I plan to pursue a PhD in astronomy and astrophysics (please let me into your grad program). I am passionate about STEM education and outreach, and want to continue working with the general public along with conducting my research. I am dedicated to affirmative inclusivity in the sciences--not just "diversity"--working both toward personal growth and institutional change. I have served as a mentor for underprivileged students, and helped found a BIPOC big sibling program at my small, all-women's high school. This program aims to help students of color combat imposter syndrome, and to encourage them to pursue any field of interest! Outside of school and research, I am a huge Chicago Cubs baseball fan, ukulele player, and avid hiker. 
 
