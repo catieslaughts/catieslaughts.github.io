@@ -14,7 +14,7 @@ Topics of current research include:
 
 * Stellar Evolution Modeling
     * Pop II stars
-    * Milky-way Globular cluster systems
+    * Milky-way globular cluster systems
         * Main-sequence fitting and assorted numerical analyses
     * Search for Pop III stars and stellar remnants
     
@@ -83,7 +83,7 @@ Some examples of significant written reports and poster presentations, both from
 
 The MOST recent version of my CV can always be found on <a href="https://www.overleaf.com/read/rgjgxdyfkwcc" target="_blank" >Overleaf</a>
 
-[Download as PDF](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/WebsiteCV.pdf) (Updated 10/27/2020)
+[Download as PDF](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/WebsiteCV.pdf) (Updated 12/15/2020)
 
 <img src="images_pdfs/WebsiteCV_pg1.jpg" width="70%">
 <img src="images_pdfs/WebsiteCV_pg2.jpg" width="70%">
