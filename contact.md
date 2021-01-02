@@ -3,6 +3,7 @@ layout: default
 title: Contact
 permalink: /contact/
 ---
+## Contact Info.
 
 <a href="mailto:catherine.m.slaughter@gmail.com"> <i class="fas fa-envelope"></i> Catherine.M.Slaughter@gmail.com</a>
 <br><a href="https://orcid.org/0000-0002-5752-3780" target="_blank"> <i class="fab fa-orcid"></i> My ORCiD</a>
