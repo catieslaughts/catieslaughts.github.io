@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Catherine Slaughter
+title: Home
 ---
 
 ## Introduction
