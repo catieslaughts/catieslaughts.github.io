@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-### Research
+# Research
 
 ## Ongoing Interests
 
@@ -26,7 +26,7 @@ Topics of current research include:
 
 ## Significant Research Projects
 
-# Some examples of significant written reports and poster presentations, both from coursework and paid research work.
+### Some examples of significant written reports and poster presentations, both from coursework and paid research work.
 
 * Modeling Tidal Disruption Events in a Classical Regime (Fall 2020) [[Report]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/Final_Report.pdf) <a href="https://youtu.be/Jdm8zmiU0OY" target="_blank" >[Video] </a> <a href="https://github.com/catieslaughts/tidal-disruption-sim" target="_blank" >[Github]</a>
    * Final project for an upper-level Physical Modeling class (COSC 89.18)
