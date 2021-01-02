@@ -15,6 +15,6 @@ Catherine Slaughter
 <br>Dartmouth College
 <br>Hanover, NH 03755
 
-### Online
+### Online:
 Links to other online forms of contact can be found in the sidebar.
 You can find me on most social media platforms with the handle @catieslaughts !
