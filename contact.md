@@ -5,12 +5,16 @@ permalink: /contact/
 ---
 # Contact Info.
 
+### Email:
 As is true for most, the best way to contact me is through email!
+<br><a href="mailto:catherine.m.slaughter@gmail.com"> <i class="fas fa-envelope"></i> Catherine.M.Slaughter@gmail.com</a>
 
-<a href="mailto:catherine.m.slaughter@gmail.com"> <i class="fas fa-envelope"></i> Catherine.M.Slaughter@gmail.com</a>
-<br><a href="https://www.linkedin.com/in/catherineslaughter" target="_blank"> <i class="fab fa-linkedin" ></i> My LinkedIn</a>
-<br><a href="https://twitter.com/catieslaughts" target="_blank"> <i class="fab fa-twitter" ></i> @CatieSlaughts</a>
+### Snail Mail:
+Catherine Slaughter
+<br>4311 Hinman
+<br>Dartmouth College
+<br>Hanover, NH 03755
 
-
-<br><a href="https://orcid.org/0000-0002-5752-3780" target="_blank"> <i class="fab fa-orcid"></i> My ORCiD</a>
-<br><a href="https://github.com/CatieSlaughts" target="_blank"> <i class="fab fa-github" ></i> My Github</a>
+### Online
+Links to other online forms of contact can be found in the sidebar.
+You can find me on most social media platforms with the handle @catieslaughts !
