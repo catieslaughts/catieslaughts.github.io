@@ -4,7 +4,7 @@ title: Contact
 permalink: /publications/
 ---
 
-## Publications
+# Publications
 
 <a href="https://orcid.org/0000-0002-5752-3780" target="_blank"> <i class="fab fa-orcid"></i>My ORCiD</a>
 
