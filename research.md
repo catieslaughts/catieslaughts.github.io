@@ -4,8 +4,6 @@ title: Research
 permalink: /research/
 ---
 
-Test: image issue
-
 # Research
 
 ## Ongoing Interests
