@@ -35,18 +35,18 @@ Topics of current research include:
 * Analyzing Straylight X-Ray Binaries with NuSTAR (Summer 2020) [[Report]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/Slaughter_FinalReport.pdf)[[Poster]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/SURFfinalPoster.pdf)
    * SURF project completed Summer 2020. Poster presented at virtual seminar for Caltech SFP students
    
-   <img src="images_pdfs/SURFfinalPoster.jpg" width="60%">
+   <img src="../images_pdfs/SURFfinalPoster.jpg" width="60%">
    
 * Refining the Age of the Universe Using Globular Clusters: Prerequisite Work (Spring 2020) [[Poster]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/thesisPrelim.pdf)
    * Preliminary work for Senior Thesis project
    * Poster presented virtually at Physics and Astronomy Department Symposium May 2020
    
-   <img src="images_pdfs/thesisPrelim.jpg" width="60%">
+   <img src="../images_pdfs/thesisPrelim.jpg" width="60%">
    
 * Using SED Model Fitting to Search for Star-Forming Galaxies at z>4.5 (Winter 2020) [[Paper]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/A25FinalProj.pdf) [[Poster]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/Slaughter_catherine_finalPoster.pdf)
    * Final project for an intermediate-level Astronomy class ("Galaxies and Cosmology")
    
-   <img src="images_pdfs/Slaughter_catherine_finalPoster.jpg" width="50%">
+   <img src="../images_pdfs/Slaughter_catherine_finalPoster.jpg" width="50%">
    
 * Computer Modeling and Simulation Project (Fall 2019) [[Report]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/P50ModelingProj.pdf)
    * Coding project for an intermediate-level Quantum Mechanics class
@@ -65,4 +65,4 @@ Topics of current research include:
    * Presented at Wetterhan Science Symposium
    * Research was done as an intern of the Women In Science Project (WISP) at Dartmouth College
    
-   <img src="images_pdfs/StellarEvolutionWISPPoster.jpg" width="60%">
+   <img src="../images_pdfs/StellarEvolutionWISPPoster.jpg" width="60%">
