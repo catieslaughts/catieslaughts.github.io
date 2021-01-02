@@ -4,6 +4,8 @@ title: Research
 permalink: /research/
 ---
 
+Test: image issue
+
 # Research
 
 ## Ongoing Interests
@@ -35,7 +37,7 @@ Topics of current research include:
 * Analyzing Straylight X-Ray Binaries with NuSTAR (Summer 2020) [[Report]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/Slaughter_FinalReport.pdf)[[Poster]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/SURFfinalPoster.pdf)
    * SURF project completed Summer 2020. Poster presented at virtual seminar for Caltech SFP students
    
-   <img src="images_pdfs/SURFfinalPoster.jpg" width="60%">
+   <img src="catieslaughts.github.io/images_pdfs/SURFfinalPoster.jpg" width="60%">
    
 * Refining the Age of the Universe Using Globular Clusters: Prerequisite Work (Spring 2020) [[Poster]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/thesisPrelim.pdf)
    * Preliminary work for Senior Thesis project
