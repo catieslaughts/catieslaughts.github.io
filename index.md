@@ -11,7 +11,7 @@ Although I've been told many times to not open with this, I have wanted to be an
 
 
 ## Personal Statement:
-**Originally written for graduate program applications, the following gives a detailed and relatively brief overview of my research experiences and professional goals.**
+**Originally written for PhD program applications, the following gives a detailed and relatively brief overview of my research experiences and professional goals.**
 
 A lot of people like astronomy, it’s easy to like astronomy. What could be more beautiful than a clear, dark sky full of stars? Over the course of my undergraduate career I’ve learned what it means to be truly passionate for this field of study. From finding joy in the grunt work of filling out a spreadsheet, to the first time I saw my name listed as an author, my undergraduate work in astronomy has been the most fulfilling work I’ve ever experienced. Throughout this time, I've developed two main professional goals. The first and primary goal is to continue to conduct research at the forefront of astrophysics, ideally as a professor. I have a particular interest in the intersection of observational and computational astronomy, where new technology can be used to improve and accelerate our knowledge of astrophysics. My second goal is to work with the general public. I am passionate about public outreach in STEM and believe that encouraging people to engage with science is an absolutely critical part of being a scientist. During my undergraduate years, I have gained experience on both of these fronts, and I believe that a PhD-track graduate education is the best next step for me.
 
