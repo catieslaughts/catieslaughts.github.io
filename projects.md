@@ -22,6 +22,7 @@ permalink: /projects/
 * Using SED Model Fitting to Search for Star-Forming Galaxies at z>4.5 (Winter 2020) [[Paper]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/A25FinalProj.pdf) [[Poster]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/Slaughter_catherine_finalPoster.pdf)
    * Final project for an intermediate-level Astronomy class ("Galaxies and Cosmology")
    <br><img src="../images_pdfs/Slaughter_catherine_finalPoster.jpg" width="50%">
+   
 ### 2019   
 * Computer Modeling and Simulation Project (Fall 2019) [[Report]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/P50ModelingProj.pdf)
    * Coding project for an intermediate-level Quantum Mechanics class
@@ -35,6 +36,7 @@ permalink: /projects/
    * Final Paper for a Special Topics class in Astronomy
    * Completed as part of a study-abroad to South Africa
    * Project included a week-long observing run at SAAO
+   
 ### 2018
 * Improving Metal-Poor Stellar Evolution Models (Spring 2018) [[Poster]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/StellarEvolutionWISPPoster.pdf)
    * Presented at Wetterhan Science Symposium
