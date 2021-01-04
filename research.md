@@ -20,10 +20,10 @@ Additionally, I am presently working on a paper that is an extension of a Summer
 
 My project specifically serves to show the utility of these straylight data in astrophysics research. In particular, I am doing spectral and time series analyses of a number of straylight observations of GX 17+2; a Z-track, Neutron Star, LMXB source. The data are reduced using code written by Dr. Grefenstette and others for the specific purpose of analyzing straylight observations. I then use typical relxillNS models and a Markov-Chain Monte Carlo method to model the data, just as one would do with direct-light observations of the same source.
 
-## Ongoing Interests
-I am generally interested in observational and computational astrophysics. Along with having taken many classes with research-based components and having gone observing on several observing runs, I have taken Computer Science coursework well beyond what is required for my undergraduate degree, and consistently apply those skills to my research.
+## Interests
+I am generally interested in the intersection of observational and computational astrophysics. Along with having taken many classes with research-based components and having gone observing on several observing runs, I have taken Computer Science coursework well beyond what is required for my undergraduate degree, and consistently apply the skills learned in those classes to my research.
 
-Topics of current research include:
+Specific research interests include (but are not limited to):
 
 * Stellar Evolution Modeling
     * Pop II stars
