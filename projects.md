@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 # Significant Research Projects
 **Some examples of significant written reports and poster presentations, both from coursework and paid research work.**
-
+### 2020
 * Modeling Tidal Disruption Events in a Classical Regime (Fall 2020) [[Report]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/Final_Report.pdf) <a href="https://youtu.be/Jdm8zmiU0OY" target="_blank" >[Video] </a> <a href="https://github.com/catieslaughts/tidal-disruption-sim" target="_blank" >[Github]</a>
    * Final project for an upper-level Physical Modeling class (COSC 89.18)
    * Written in C++
@@ -22,7 +22,7 @@ permalink: /projects/
 * Using SED Model Fitting to Search for Star-Forming Galaxies at z>4.5 (Winter 2020) [[Paper]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/A25FinalProj.pdf) [[Poster]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/Slaughter_catherine_finalPoster.pdf)
    * Final project for an intermediate-level Astronomy class ("Galaxies and Cosmology")
    <br><img src="../images_pdfs/Slaughter_catherine_finalPoster.jpg" width="50%">
-   
+### 2019   
 * Computer Modeling and Simulation Project (Fall 2019) [[Report]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/P50ModelingProj.pdf)
    * Coding project for an intermediate-level Quantum Mechanics class
    * Code written in MATLAB
@@ -35,7 +35,7 @@ permalink: /projects/
    * Final Paper for a Special Topics class in Astronomy
    * Completed as part of a study-abroad to South Africa
    * Project included a week-long observing run at SAAO
-
+### 2018
 * Improving Metal-Poor Stellar Evolution Models (Spring 2018) [[Poster]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/StellarEvolutionWISPPoster.pdf)
    * Presented at Wetterhan Science Symposium
    * Research was done as an intern of the Women In Science Project (WISP) at Dartmouth College
