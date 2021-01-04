@@ -6,8 +6,7 @@ permalink: /research/
 
 # Research
 Descriptions of current research projects and ongoing research interests.
-
-An extended list of past significant research projects can be found on my <a href="http://www.catherineslaughter.space/projects/">projects</a> page.
+<br>An extended list of past significant research projects can be found on my <a href="http://www.catherineslaughter.space/projects/">projects</a> page.
 
 ## Senior Thesis
 As of right now, my primary project is my undergraduate senior honors thesis, advised by Prof. Brian Chaboyer. The Chaboyer Group at Dartmouth College focuses on research in stellar evolution. In particular, the group helps maintain and calibrate DSED evolution models, and uses the database to study stellar population formation of the Milky Way, satellite galaxies, globular clusters, etc.
