@@ -8,7 +8,7 @@ permalink: /cv/
 
 ### The MOST recent version of my CV can always be found on <a href="https://www.overleaf.com/read/rgjgxdyfkwcc" target="_blank" >Overleaf</a>
 
-[Download as PDF](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/WebsiteCV.pdf) (Updated 12/15/2020)
+[Download as PDF](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/WebsiteCV.pdf) (Updated Feb. 3, 2021)
 <br><img src="../images_pdfs/WebsiteCV_pg1.jpg" width="70%">
 <br><img src="../images_pdfs/WebsiteCV_pg2.jpg" width="70%">
 
