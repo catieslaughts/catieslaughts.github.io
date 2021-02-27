@@ -17,7 +17,7 @@ Catherine Slaughter
 
 ### Online:
 Links to other online forms of contact can be found in the sidebar.
-You can find me on most social media platforms with the handle @catieslaughts !
+<!--You can find me on most social media platforms with the handle @catieslaughts !-->
 
 ### Other:
 For the particularly young at heart, my Nintendo Online friend code is SW-7325-4321-5044. My Animal Crossing island has an observatory. I will, however, strongly recommend sticking to email for any time-sensitive communications.
