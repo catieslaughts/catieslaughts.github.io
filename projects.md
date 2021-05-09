@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 # Significant Research Projects
 **Some examples of significant written reports and poster presentations, both from coursework and paid research work.**
-###2021
+### 2021
 * Determining the age of ε Chamaeleontis with MIST Isochrones [[Report]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/A117.pdf) [[Analysis Toolkit]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/FinalProject.zip) 
   * Final Project for graduate-level Observational Galactic Astrophysics
   * Written in Python using Jupyter
