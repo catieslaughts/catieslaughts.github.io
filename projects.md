@@ -3,9 +3,14 @@ layout: default
 title: Projects
 permalink: /projects/
 ---
-# Significant Research Projects
+# Significant Projects
 **Some examples of significant written reports and poster presentations, both from coursework and paid research work.**
 ### 2021
+* Hubble's Law and the Hubble Tension: A Brief Overview (Spring 2021) [[Paper]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/HubbleLawOverview.pdf)
+  * Final paper for intro-level History and Philosophy of Science class
+  * Base-level description of the Hubble Tension
+  * Example of science writing for non-science audiences
+
 * Determining the age of ε Chamaeleontis with MIST Isochrones (Winter 2021) [[Report]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/A117.pdf) [[Analysis Toolkit]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/FinalProject.zip) 
   * Final Project for graduate-level Observational Galactic Astrophysics
   * Written in Python using Jupyter
@@ -23,7 +28,7 @@ permalink: /projects/
    <br><img src="../images_pdfs/SURFfinalPoster.jpg" width="60%">
    
 * Refining the Age of the Universe Using Globular Clusters: Prerequisite Work (Spring 2020) [[Poster]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/thesisPrelim.pdf)
-   * Preliminary work for Senior Thesis project
+   * Preliminary work for culminating research project
    * Poster presented virtually at Physics and Astronomy Department Symposium May 2020
    <br><img src="../images_pdfs/thesisPrelim.jpg" width="60%">
    
