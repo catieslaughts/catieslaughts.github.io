@@ -19,5 +19,5 @@ A summertime program along the Appalacian Trail in Maine and New Hampshire. Unde
 ### Dartmouth ManyMentors
 A penpal and school outreach program! "Making STEM opportunities more visible, valuable, and viable for underrepresented k-12 students in rural Vermont and New Hampshire." -<a href='https://www.dartmouthmanymentors.org/'>ManyMentors Website </a>
 
-### For Educators:
+## For Educators:
 I'm admittedly probably not far enough in my career to have a "for educators" section of my outreach page, but I love chatting with young people about space, science, and their possible futures in both! 
