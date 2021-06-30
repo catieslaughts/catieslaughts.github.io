@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 # Significant Projects
 **Some examples of significant written reports and poster presentations, both from coursework and paid research work.**
-(Looking for something a little <a href='http://www.catherineslaughter.space/games/'>more fun</a>?)
+<br>(Looking for something a little <a href='http://www.catherineslaughter.space/games/'>more fun</a>?)
 ### 2021
 * Hubble's Law and the Hubble Tension: A Brief Overview (Spring 2021) [[Paper]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/HubbleLawOverview.pdf)
   * Final paper for intro-level History and Philosophy of Science class
