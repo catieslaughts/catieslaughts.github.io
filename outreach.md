@@ -11,13 +11,13 @@ I am a firm believer that public education and outreach are a crucial part of sc
 **Different outreach groups/opportunities I am/have been involved with!**
 ### Dartmouth College Public Observing
 (Note: Public observing is not currently being held due to the Covid-19 pandemic)
-<br> If you find yourself in Hanover, come stop by on Friday nights when classes are in session to the Department of Physics and Astronomy's <a href='https://physics.dartmouth.edu/news-events/public-observing'> Public Observing </a> sessions!
+<br> If you find yourself in Hanover, come stop by on Friday nights when classes are in session to the Department of Physics and Astronomy's <a href='https://physics.dartmouth.edu/news-events/public-observing' target='_blank'> Public Observing </a> sessions!
 
 ### Mountains of Stars
-A summertime program along the Appalacian Trail in Maine and New Hampshire. Undergraduates work as <a href='https://www.mountainsofstars.org/'> astronomy and nature guides</a>, connecting people to environmental issues through a common human interest in the stars. 
+A summertime program along the Appalacian Trail in Maine and New Hampshire. Undergraduates work as <a href='https://www.mountainsofstars.org/' target='_blank'> astronomy and nature guides</a>, connecting people to environmental issues through a common human interest in the stars. 
 
 ### Dartmouth ManyMentors
-A penpal and school outreach program! "Making STEM opportunities more visible, valuable, and viable for underrepresented k-12 students in rural Vermont and New Hampshire." -<a href='https://www.dartmouthmanymentors.org/'>ManyMentors Website </a>
+A penpal and school outreach program! "Making STEM opportunities more visible, valuable, and viable for underrepresented k-12 students in rural Vermont and New Hampshire." -<a href='https://www.dartmouthmanymentors.org/' target='_blank'>ManyMentors Website </a>
 
 ## For Educators:
 I'm admittedly probably not far enough in my career to have a "for educators" section of my outreach page, but I love chatting with young people about space, science, and their possible futures in both! 
