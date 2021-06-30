@@ -3,7 +3,6 @@ layout: default
 title: Scratch Projects
 permalink: /games/
 ---
+## Games and Fun Stuff:
 
-Test
-
-<link href="ScratchGame.html" rel="import" />
+* <a>href='ScratchGame.html' target='_blank'>Hide and Seek</a>
