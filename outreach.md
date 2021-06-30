@@ -21,3 +21,5 @@ A penpal and school outreach program! "Making STEM opportunities more visible, v
 
 ## For Educators:
 I'm admittedly probably not far enough in my career to have a "for educators" section of my outreach page, but I love chatting with young people about space, science, and their possible futures in both! 
+
+Looking to start your students in the sciences? May I reccomend <a href='https://scratch.mit.edu/' target='_blank'>Scratch</a>? This applet, originally created at MIT, was my first introduction to coding, and I still love to play around with it today! Check out some of my <a href='https://scratch.mit.edu/' target='_blank'>games </a> here!
