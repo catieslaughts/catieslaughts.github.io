@@ -7,7 +7,6 @@ permalink: /publications/
 # Publications
 <a href="https://orcid.org/0000-0002-5752-3780" target="_blank"> <i class="fab fa-orcid"></i>My ORCiD</a>
 
-
 <br>Brian Grefenstette et al. StrayCats: A catalog of NuSTAR Stray Light Observations. *ApJ*, 2021.
 <br><a href="https://arxiv.org/abs/2102.01236" target="_blank">arXiv Preprint</a>
 <br><a href="https://iopscience.iop.org/article/10.3847/1538-4357/abe045" target="_blank">ApJ Listing</a>
