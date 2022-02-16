@@ -10,11 +10,11 @@ As is true for most, the best way to contact me is through email!
 <br><a href="mailto:catherine.m.slaughter@gmail.com"> <i class="fas fa-envelope"></i> Catherine.M.Slaughter@gmail.com</a>
 
 ### Snail Mail:
-As I'm in the process of moving to The Netherlands, I don't have a mailing address I can simply post online at the moment. Please consider sending me an email!
+While I am pursuing my MSc in the NL, I don't have a formal office with a mailing address. Please consider sending me an email instead!
 
 ### Online:
 Links to other online forms of contact can be found in the sidebar.
-<!--You can find me on most social media platforms with the handle @catieslaughts !-->
+You can find me on most social media platforms with the handle @catieslaughts!
 
 ### Other:
 For the particularly young at heart, my Nintendo Online friend code is SW-7325-4321-5044. My Animal Crossing island has an observatory. I will, however, strongly recommend sticking to email for any time-sensitive communications.
