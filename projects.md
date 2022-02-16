@@ -5,8 +5,12 @@ permalink: /projects/
 ---
 # Significant Projects
 **Some examples of significant written reports and poster presentations, both from coursework and paid research work.**
-<br>(Looking for something a little <a href='http://www.catherineslaughter.space/games/'>more fun</a>?)
+<br>(Do you want to <a href='http://www.catherineslaughter.space/games/'>play a game</a>?)
 ### 2021
+* Modelling Lidov-Kozai Oscillations in a System of Exomoons (Fall 2021) [[Report]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/AMUSE_FinalProj.pdf) <a href="https://github.com/peterbreslin/amuse-project" target="_blank" >[Github]</a>
+ * Term project for Simulation and Modelling in Astrophysics in AMUSE
+ * Written in Python utilizing the Astrophysical Multipurpose Software Environment
+
 * Hubble's Law and the Hubble Tension: A Brief Overview (Spring 2021) [[Paper]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/HubbleLawOverview.pdf)
   * Final paper for intro-level History and Philosophy of Science class
   * Base-level description of the Hubble Tension
