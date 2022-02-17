@@ -13,7 +13,6 @@ Outside of school and research, I am a huge Chicago Cubs fan, ukulele player, an
 
 ### Gallery:
 
-![Baby's first poster presentation](../images_pdfs/photos/PosterPres.jpg) ![Dartmouth's Shattuck Observatory](../images_pdfs/photos/LeidenImage.jpg) ![The veiw from MDM](../images_pdfs/photos/KittpeakBack.jpg) ![SALT at SAAO](../images_pdfs/photos/SALTSelfie.jpg) ![A mural at Planétarium Rio Tinto Alcan in Montreal](../images_pdfs/photos/CanadaMural.jpg) ![Graduation Day!](../images_pdfs/photos/GradPic.jpg)
-
+<img src="../images_pdfs/photos/PosterPres.JPG" width="49%"> <img src="../images_pdfs/photos/KittpeakBack.JPG" width="49%"> <img src="../images_pdfs/photos/SALTSelfie.JPG" width="32%"> <img src="../images_pdfs/photos/CanadaMural.jpg" width="32%"> <img src="../images_pdfs/photos/GradPic.jpg" width="32%">
 
 <!--For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).-->
