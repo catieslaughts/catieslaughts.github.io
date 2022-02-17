@@ -12,6 +12,7 @@ I am passionate about [public outreach](http://www.catherineslaughter.space/outr
 Outside of school and research, I am a huge Chicago Cubs fan, ukulele player, and avid hiker!
 
 ### Gallery:
+(Doesn't every astronomer have too many photos in front of various telescope domes?)
 
 <img src="../images_pdfs/photos/LeidenImage.jpg" width="49%"> 
 <img src="../images_pdfs/photos/KittpeakBack.jpg" width="49%">
