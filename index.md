@@ -14,16 +14,16 @@ Outside of school and research, I am a huge Chicago Cubs fan, ukulele player, an
 ### Gallery:
 (Doesn't every astronomer have too many photos in front of various telescope domes?)
 
-<img src="../images_pdfs/photos/LeidenImage.jpg" width="49%"> 
-<img src="../images_pdfs/photos/KittpeakBack.jpg" width="49%">
-<img src="../images_pdfs/photos/SterrewachtDome.JPG" width="32%">
-<img src="../images_pdfs/photos/SALTSelfie.JPG" width="32%"> 
-<img src="../images_pdfs/photos/CanadaMural.jpg" width="32%"> 
-<img src="../images_pdfs/photos/GradPic.jpg" width="32%"> 
-<img src="../images_pdfs/photos/Moon.JPG" width="32%">
-<img src="../images_pdfs/photos/BoatTrip.jpg" width="32%"> 
-<img src="../images_pdfs/photos/KittpeakDome.jpg" width="32%"> 
-<img src="../images_pdfs/photos/SALTLarge.JPG" width="32%"> 
-<img src="../images_pdfs/photos/SterrewachtSign.jpg" width="32%">
+<img src="../images_pdfs/photos/LeidenImage.jpg" width="49.5%"> 
+<img src="../images_pdfs/photos/KittpeakBack.jpg" width="49.5%">
+<img src="../images_pdfs/photos/SterrewachtDome.JPG" width="33%">
+<img src="../images_pdfs/photos/SALTSelfie.JPG" width="33%"> 
+<img src="../images_pdfs/photos/CanadaMural.jpg" width="33%"> 
+<img src="../images_pdfs/photos/GradPic.jpg" width="33%"> 
+<img src="../images_pdfs/photos/Moon.JPG" width="33%">
+<img src="../images_pdfs/photos/BoatTrip.jpg" width="33%"> 
+<img src="../images_pdfs/photos/KittpeakDome.jpg" width="33%"> 
+<img src="../images_pdfs/photos/SALTLarge.JPG" width="33%"> 
+<img src="../images_pdfs/photos/SterrewachtSign.jpg" width="33%">
 
 <!--For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).-->
