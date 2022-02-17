@@ -11,9 +11,9 @@ I am passionate about [public outreach](http://www.catherineslaughter.space/outr
 
 Outside of school and research, I am a huge Chicago Cubs fan, ukulele player, and avid hiker!
 
+### Gallery:
 
-
-<!--![CVpg1](https://github.com/catieslaughts/catieslaughts.github.io/blob/master/websitecvpg1.jpg)-->
+![Baby's first poster presentation](../images_pdfs/photos/PosterPres.jpg) ![Dartmouth's Shattuck Observatory](../images_pdfs/photos/LeidenImage.jpg) ![The veiw from MDM](../images_pdfs/photos/KittpeakBack.jpg) ![SALT at SAAO](../images_pdfs/photos/SALTSelfie.jpg) ![A mural at Planétarium Rio Tinto Alcan in Montreal](../images_pdfs/photos/CanadaMural.jpg) ![Graduation Day!](../images_pdfs/photos/GradPic.jpg)
 
 
 <!--For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).-->
