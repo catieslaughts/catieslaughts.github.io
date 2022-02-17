@@ -14,8 +14,8 @@ Outside of school and research, I am a huge Chicago Cubs fan, ukulele player, an
 ### Gallery:
 (Doesn't every astronomer have too many photos in front of various telescope domes?)
 
-<img src="../images_pdfs/photos/LeidenImage.jpg" width="48%"> 
-<img src="../images_pdfs/photos/KittpeakBack.jpg" width="48%">
+<img src="../images_pdfs/photos/LeidenImage.jpg" width="48.5%"> 
+<img src="../images_pdfs/photos/KittpeakBack.jpg" width="48.5%">
 <img src="../images_pdfs/photos/SterrewachtDome.JPG" width="32%">
 <img src="../images_pdfs/photos/SALTSelfie.JPG" width="32%"> 
 <img src="../images_pdfs/photos/CanadaMural.jpg" width="32%"> 
