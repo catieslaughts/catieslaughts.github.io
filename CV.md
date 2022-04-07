@@ -11,7 +11,6 @@ permalink: /cv/
 [Download as PDF](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/WebsiteCV.pdf) (Updated 16 Feb, 2021)
 <br><img src="../images_pdfs/WebsiteCV_pg1.jpg" width="70%">
 <br><img src="../images_pdfs/WebsiteCV_pg2.jpg" width="70%">
-<br><img src="../images_pdfs/WebsiteCV_pg3.jpg" width="70%">
 
 ## LinkedIn
 Similar information can be found on my <a href="https://www.linkedin.com/in/catherineslaughter" target="_blank"> LinkedIn</a>
