@@ -11,6 +11,10 @@ permalink: /projects/
   * Project for graduate Computational Physics
   * Written in Python
 
+* Argon Molecular Dynamics Simulation (Spring 2022) [[Report]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/Comp_Phys_A1.pdf) <a href="https://gitlab.com/lukas_welzel/computational-physics" target="_blank" >[Gitlab]</a>
+  * Project for graduate Computational Physics
+  * Written in Python
+
 ### 2021
 * Modelling Lidov-Kozai Oscillations and Tidal Friction in a System of Exomoons (Fall 2021) [[Report]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/AMUSE_FinalProj.pdf) <a href="https://github.com/peterbreslin/amuse-project" target="_blank" >[Github]</a>
   * Term project for graduate Simulation and Modelling in Astrophysics in AMUSE
