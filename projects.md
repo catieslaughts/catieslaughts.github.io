@@ -7,7 +7,7 @@ permalink: /projects/
 **Some examples of significant written reports and poster presentations, both from coursework and paid research work.**
 <br>(Do you want to <a href='http://www.catherineslaughter.space/games/'>play a game</a>?)
 ### 2022
-* Isisng Model MCMC Simulation (Spring 2022) [[Report]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/COP_project_report2.pdf) <a href="https://github.com/catieslaughts/ising_model_sim" target="_blank" >[Github]</a>
+* Ising Model MCMC Simulation (Spring 2022) [[Report]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/COP_project_report2.pdf) <a href="https://github.com/catieslaughts/ising_model_sim" target="_blank" >[Github]</a>
   * Project for graduate Computational Physics
   * Written in Python
 
