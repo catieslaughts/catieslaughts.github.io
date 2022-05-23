@@ -19,22 +19,5 @@ The purpose of my project was to estimate the ages of several globular clusters 
 The limit estimated will be useful in further research related to the Hubble Tension—a discrepancy in experimental findings which can estimate the age of the universe. The value for the age of the universe impacts what we know about cosmology going all the way back to the Big Bang, and is essential to the cosmological standard model. Because the distances to the clusters studied can be found via parallax, the value obtained in this project will not be impacted by potential error in the distance ladder. The lower limit estimated will serve as a useful boundary condition in studying the Hubble Tension.
 
 ## Interests
-I am generally interested in the intersection of observational and computational astrophysics. Along with having taken many classes with research-based components and having gone observing on several observing runs, I have taken Computer Science coursework well beyond what is required for my undergraduate degree, and consistently apply the skills learned in those classes to my research.
+I am generally interested in the intersection of observational and computational astrophysics. Along with having taken many classes with research-based components and having gone observing on several observing runs, I have taken a significant amount of Computer Science coursework that has helped guide my research interests over the years. Most recently, I have discovered an interest in high-contrast imaging techniques in one of my courses, and hope to be pursuing that further in my research.
 
-Specific research interests include (but are not limited to):
-
-* Stellar Evolution Modeling
-    * Pop II stars
-    * Milky-way globular clusters
-        * Main-sequence fitting and assorted numerical analyses
-    * Search for Pop III stars and stellar remnants
-    
-* High-energy Stellar Systems
-    * X-ray Binary systems
-        * Modelling reflection features in Xspec
-        * NuSTAR observations
-        * Analysis of serendipidous straylight observations
-
-* Anything Smaller in scale than the Milky Way
-   * Yes, I'm aware this is very broad
-   * Quantum Astrophysics
