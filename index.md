@@ -11,7 +11,7 @@ I am passionate about [public outreach](http://www.catherineslaughter.space/outr
 
 Outside of school and research, I spend much of my free time reading, listening to or playing music (usually ukulele), and playing fastpitch softball with my team here in Leiden. I am a HUGE Chicago Cubs baseball fan (this season notwithstanding). Back in New Hampshire I developed a love for hiking, kayaking and (of course) climbing, and I would love to thru-hike the Appalacian Trail some day.
 
-<center> "When we explore the cosmos, we come to believe and prove that we can solve problems that have never been solved. It brings out the best in us." -Bill Nye
+"When we explore the cosmos, we come to believe and prove that we can solve problems that have never been solved. It brings out the best in us." -Bill Nye
   
 
 ### Gallery:
