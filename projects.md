@@ -7,6 +7,10 @@ permalink: /projects/
 **Some examples of significant written reports and poster presentations, both from coursework and paid research work.**
 <br>(Do you want to <a href='http://www.catherineslaughter.space/games/'>play a game</a>?)
 ### 2022
+* Quantum Wavepacket Tunneling Simulation (Spring 2022) <a href="https://github.com/catieslaughts/quantum_wavepacket_sim" target="_blank" >[Github]</a>
+  * Project for graduate Computational Physics
+  * Written in Python
+
 * Ising Model MCMC Simulation (Spring 2022) [[Report]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/COP_project_report2.pdf) <a href="https://github.com/catieslaughts/ising_model_sim" target="_blank" >[Github]</a>
   * Project for graduate Computational Physics
   * Written in Python
@@ -14,6 +18,7 @@ permalink: /projects/
 * Argon Molecular Dynamics Simulation (Spring 2022) [[Report]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/Comp_Phys_A1.pdf) <a href="https://gitlab.com/lukas_welzel/computational-physics" target="_blank" >[Gitlab]</a>
   * Project for graduate Computational Physics
   * Written in Python
+  * Uses object-oriented methods
 
 ### 2021
 * Modelling Lidov-Kozai Oscillations and Tidal Friction in a System of Exomoons (Fall 2021) [[Report]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/AMUSE_FinalProj.pdf) <a href="https://github.com/peterbreslin/amuse-project" target="_blank" >[Github]</a>
