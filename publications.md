@@ -12,5 +12,3 @@ Brian Grefenstette et al. StrayCats: A catalog of NuSTAR Stray Light Observation
 <br><a href="https://iopscience.iop.org/article/10.3847/1538-4357/abe045" target="_blank">ApJ Listing</a>
 
 Christina Gilligan, Brian Chaboyer, and Catherine M. Slaughter. Metal-Poor Calibrating Subdwarfs in the Gaia Era. *In Preparation*, 2022.
-
-Catherine M. Slaughter and Brian Chaboyer. Refining the Age of the Universe Using Globular Clusters. *In Preparation*, 2022.
