@@ -10,6 +10,7 @@ permalink: /projects/
 * Quantum Wavepacket Tunneling Simulation (Spring 2022) <a href="https://github.com/catieslaughts/quantum_wavepacket_sim" target="_blank" >[Github]</a>
   * Project for graduate Computational Physics
   * Written in Python
+  <br><img src="../images_pdfs/quantum_sim_example.gif" width="60%">
 
 * Ising Model MCMC Simulation (Spring 2022) [[Report]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/COP_project_report2.pdf) <a href="https://github.com/catieslaughts/ising_model_sim" target="_blank" >[Github]</a>
   * Project for graduate Computational Physics
