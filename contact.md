@@ -14,7 +14,7 @@ While I am pursuing my MSc in the NL, I don't have a formal office with a mailin
 
 ### Online:
 Links to other online forms of contact can be found in the sidebar.
-You can find me on most social media platforms with the handle @catieslaughts!
+You can find me on most social media platforms with the handle @catieslaughts! Please note, however, that these accounts are not intended to be professional. As such, any opinions expressed on them do not represent those of any institutions, employers, or colleagues I am professionally affiliated with.
 
 ### Other:
 For the particularly young at heart, my Nintendo Online friend code is SW-7325-4321-5044. My Animal Crossing island has an observatory. I will, however, strongly recommend sticking to email for any time-sensitive communications.
