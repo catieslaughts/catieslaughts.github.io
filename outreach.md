@@ -16,7 +16,7 @@ A very rough schedule, to be updated as new events are added!
 
 * ~~June 21, 2pm, Solar Observing at the <a href='https://www.ketchumidaho.org/administration/page/summer-solstice-celebration-warm-springs-preserve' target='_blank'>Ketchum Summer Solstice Party</a>~~
 * ~~June 22nd, 5-6pm, Public Lecture "Planet Habitability and Our Oasis on Earth" at the <a href='https://stanley.lili.org/' target='_blank'>Stanley Community Library</a>~~
-* June 30th, 9:30pm, Public Observing at the Croy Trailhead
+* ~~June 30th, 9:30pm, Public Observing at the Croy Trailhead~~
 * July 2nd, 3pm, Children's Constellation Box Craft at the <a href='https://comlib.org/' target='_blank'>Ketchum Community Library</a>
 * July 4th, After the Parade, Solar Observing at the <a href='https://valleychamber.org/events/july-2-4-haileys-4th-of-july-parade-celebration/' target='_blank'>Hailey Antique Market</a>
 * July 6th, 12pm, Children's "Scale of the Solar System" activity at the <a href='https://comlib.org/' target='_blank'>Ketchum Community Library</a>
