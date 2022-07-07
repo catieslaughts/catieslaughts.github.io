@@ -3,3 +3,4 @@ remote_theme: catieslaughts/minimal
 title: Catherine Slaughter
 description: She/Her <br>Proto-Astrophysicist | Scicomm Enthusiast
 logo: images_pdfs/photos/PosterPres.JPG
+markdown: kramdown
