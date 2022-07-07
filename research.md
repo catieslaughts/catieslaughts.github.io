@@ -2,12 +2,8 @@
 layout: default
 title: Research
 permalink: /research/
+usemathjax: true
 ---
-
-<script
-  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
-  type="text/javascript">
-</script>
 
 # Research
 Descriptions of current research projects and ongoing research interests.
