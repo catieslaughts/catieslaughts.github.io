@@ -12,9 +12,6 @@ Starting in summer 2022, the AstroTAC group at Boise State (with outreach fundin
 * Check out my <a href='https://www.boisestatepublicradio.org/show/idaho-matters/2022-06-09/meet-the-first-astronomer-in-residence-at-the-central-idaho-dark-sky-reserve' target='_blank'>interview</a> with Idaho Matters!
 
 ### Schedule of Events:
-A very rough schedule, to be updated as new events are added!
-
-test
 
 * ~~June 21, 2pm, Solar Observing at the <a href='https://www.ketchumidaho.org/administration/page/summer-solstice-celebration-warm-springs-preserve' target='_blank'>Ketchum Summer Solstice Party</a>~~
 * ~~June 22nd, 5-6pm, Public Lecture "Planet Habitability and Our Oasis on Earth" at the <a href='https://stanley.lili.org/' target='_blank'>Stanley Community Library</a>~~
