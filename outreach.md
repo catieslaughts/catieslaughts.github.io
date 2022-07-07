@@ -22,7 +22,7 @@ A very rough schedule, to be updated as new events are added!
 * ~~July 6th, 12pm, Children's "Scale of the Solar System" activity at the <a href='https://comlib.org/' target='_blank'>Ketchum Community Library</a>~~
 * ~~July 6th, 12:30-3pm, Solar Observing at the <a href='https://comlib.org/' target='_blank'>Ketchum Community Library</a>~~
 * July 8th and 9th, Dusk, Public Observing with the Boise Astronomical Society at Stanley Pioneer Park
-* July 8th, TBA, Solar observing at Redfish Lake Lodge
+* July 8th, 12:30-3pm, Solar observing at Redfish Lake Lodge
 * July 9th, Noon, Solar Observing at the <a href='https://haileypubliclibrary.org/' target='_blank'>Hailey Public Library</a>
 * July 13th, 12-3pm, Solar Observing at the <a href='https://stanley.lili.org/' target='_blank'>Stanley Community Library</a>
 * July 13th, 6-7pm, Public Lecture "Indigenous Astronomy" at the <a href='https://stanley.lili.org/' target='_blank'>Stanley Community Library</a>
