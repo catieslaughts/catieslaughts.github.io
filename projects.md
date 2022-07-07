@@ -16,7 +16,7 @@ permalink: /projects/
   * Project for graduate Computational Physics
   * Written in Python
 
-* Argon Molecular Dynamics Simulation (Spring 2022) [[Report]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/Comp_Phys_A1.pdf) <a href="https://gitlab.com/lukas_welzel/computational-physics" target="_blank" >[Gitlab]</a>
+* Argon Molecular Dynamics Simulation (Spring 2022) [[Report]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/Comp_Phys_A1.pdf) <a href="https://gitlab.com/lukas_welzel/computational-physics/-/tree/main/assignment_1" target="_blank" >[Gitlab]</a>
   * Project for graduate Computational Physics
   * Written in Python
   * Uses object-oriented methods
