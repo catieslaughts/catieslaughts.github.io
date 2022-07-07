@@ -20,7 +20,7 @@ A very rough schedule, to be updated as new events are added!
 * ~~July 2nd, 3pm, Children's Constellation Box Craft at the <a href='https://comlib.org/' target='_blank'>Ketchum Community Library</a>~~
 * ~~July 3rd, 9am-4pm, Solar Observing at the <a href='https://valleychamber.org/events/july-2-4-haileys-4th-of-july-parade-celebration/' target='_blank'>Hailey Antique Market</a>~~
 * ~~July 6th, 12pm, Children's "Scale of the Solar System" activity at the <a href='https://comlib.org/' target='_blank'>Ketchum Community Library</a>~~
-* ~~July 6th, ~12:30-3pm, Solar Observing at the <a href='https://comlib.org/' target='_blank'>Ketchum Community Library</a>~~
+* ~~July 6th, 12:30-3pm, Solar Observing at the <a href='https://comlib.org/' target='_blank'>Ketchum Community Library</a>~~
 * July 8th and 9th, Dusk, Public Observing with the Boise Astronomical Society at Stanley Pioneer Park
 * July 8th, TBA, Solar observing at Redfish Lake Lodge
 * July 9th, Noon, Solar Observing at the <a href='https://haileypubliclibrary.org/' target='_blank'>Hailey Public Library</a>
