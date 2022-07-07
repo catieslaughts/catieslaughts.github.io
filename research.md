@@ -3,7 +3,12 @@ layout: default
 title: Research
 permalink: /research/
 ---
-test
+
+<script
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+  type="text/javascript">
+</script>
+
 # Research
 Descriptions of current research projects and ongoing research interests.
 <br>An extended list of past significant research projects can be found on my <a href="http://www.catherineslaughter.space/projects/">projects</a> page.
