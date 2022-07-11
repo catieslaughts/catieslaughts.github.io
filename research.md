@@ -11,6 +11,8 @@ Descriptions of current research projects and ongoing research interests.
 ## Interests
 My research interests generally lie at the intersection between observational and computational astrophysics. As I look to apply to PhD programs starting in Fall 2023, I am hoping to pursue computational applications to the study of stellar and planetary astronomy. In particular, I am interested in modeling (and analyzing data related to) the formation, evolution, and death of stars and stellar systems. I would be interested to see such research applied to study of Pop. III stars. I believe a better understanding of the conditions under which such stars form and could possibly live to today will be beneficial to the search for observable Pop. III stars, and have greater applications to our understanding of Big Bang Nucleosythesis and early universe cosmology.
 
+(Are you a professor with related research interests looking to expand your research group in the next application cycle? I would be honored to work with you!)
+
 ## First-Year Master's Research
 My current research project is being conducted under the guidance of Prof. Xander Tielens and Dr. Cornelia Pabst at Sterrewacht Leiden. Inspired by the work of Dr. Bob O'Dell [(O'Dell et al. 2017)](https://ui.adsabs.harvard.edu/abs/2017ApJ...837..151O/abstract) I am using SOFIA data and a radiation field code developed by Ramsey Karim at the University of Maryland to search for regions of the greater Orion Nebula where ionizing radiation may be dominated by stars other than Theta 1 Orionis C, the brightest star in the Trapezium cluster. I am doing this by comparing patterns in line emission from the nebula medium with expected radiation field values at different regions of the sky. 
 
