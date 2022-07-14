@@ -13,7 +13,7 @@ Starting in summer 2022, the AstroTAC group at Boise State (with outreach fundin
 
 Did you attend an AIR event and are willing to give feedback? Scan the QR code below!
 
-<img src="../images_pdfs/unknown.png" width=35%>
+<img src="../images_pdfs/unknown.png" width="35%">
 
 ### Schedule of Events:
 
