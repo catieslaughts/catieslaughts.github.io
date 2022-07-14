@@ -7,10 +7,6 @@ permalink: /outreach/
 # Outreach
 I am a firm believer that public education and outreach are a crucial part of scientific work. Outreach helps us to educate, spark an interest in the sciences in young people, and learn how to express ourselves and describe our work to a wide variety of audiences. My outreach work has helped me to understand my research on a more fundamental level, and I am a better scientist for it.
 
-Did you attend an AIR event and are willing to give feedback? Scan the QR code below!
-
-<img src="../images_pdfs/unknown.png">
-
 ## Central Idaho Dark Sky Reserve Astronomer-in-Residence, June-July 2022
 Starting in summer 2022, the AstroTAC group at Boise State (with outreach funding from NASA) is hiring an astronomer-in-residence (analogous to an artist-in-residence) to spend 4 weeks at CISDR doing public outreach work with the community! A great opportunity in a beautiful setting!
 * Check out my <a href='https://www.boisestatepublicradio.org/show/idaho-matters/2022-06-09/meet-the-first-astronomer-in-residence-at-the-central-idaho-dark-sky-reserve' target='_blank'>interview</a> with Idaho Matters!
