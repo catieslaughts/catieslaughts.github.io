@@ -15,6 +15,10 @@ Did you attend an AIR event and are willing to give feedback? Scan the QR code b
 Starting in summer 2022, the AstroTAC group at Boise State (with outreach funding from NASA) is hiring an astronomer-in-residence (analogous to an artist-in-residence) to spend 4 weeks at CISDR doing public outreach work with the community! A great opportunity in a beautiful setting!
 * Check out my <a href='https://www.boisestatepublicradio.org/show/idaho-matters/2022-06-09/meet-the-first-astronomer-in-residence-at-the-central-idaho-dark-sky-reserve' target='_blank'>interview</a> with Idaho Matters!
 
+Did you attend an AIR event and are willing to give feedback? Scan the QR code below!
+
+<img src="../images_pdfs/unknown.png" width=35%>
+
 ### Schedule of Events:
 
 * ~~June 21, 2pm, Solar Observing at the <a href='https://www.ketchumidaho.org/administration/page/summer-solstice-celebration-warm-springs-preserve' target='_blank'>Ketchum Summer Solstice Party</a>~~
