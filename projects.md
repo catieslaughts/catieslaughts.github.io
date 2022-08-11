@@ -7,6 +7,12 @@ permalink: /projects/
 **Some examples of significant written reports and poster presentations, both from coursework and paid research work.**
 <br>(Do you want to <a href='http://www.catherineslaughter.space/games/'>play a game</a>?)
 ### 2022
+* Nebular Chewing Gum: A Modeled Radiation Field Search for Bubble Structures in the Greater Orion Nebula Region (School Year 2021-2022) [[Report]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/Slaughter_FirstYearProject_final.pdf)
+  * First-year MSc research project
+  * Used modeled radiation field code to identify regions of the Greater Orion Nebula where radiative input is not dominated by the Trapezium
+  * Studied equivalent regions in Herschel 70/160 micron and SOFIA CII data
+  * Identified a new fossil bubble structure around star HD 37150
+
 * Quantum Wavepacket Tunneling Simulation (Spring 2022) <a href="https://github.com/catieslaughts/quantum_wavepacket_sim" target="_blank" >[Github]</a>
   * Project for graduate Computational Physics
   * Written in Python
