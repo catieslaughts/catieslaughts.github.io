@@ -7,34 +7,14 @@ permalink: /outreach/
 # Outreach
 I am a firm believer that public education and outreach are a crucial part of scientific work. Outreach helps us to educate, spark an interest in the sciences in young people, and learn how to express ourselves and describe our work to a wide variety of audiences. My outreach work has helped me to understand my research on a more fundamental level, and I am a better scientist for it.
 
-## Central Idaho Dark Sky Reserve Astronomer-in-Residence, June-July 2022
-Starting in summer 2022, the AstroTAC group at Boise State (with outreach funding from NASA) is hiring an astronomer-in-residence (analogous to an artist-in-residence) to spend 4 weeks at CISDR doing public outreach work with the community! A great opportunity in a beautiful setting!
-* Check out my <a href='https://www.boisestatepublicradio.org/show/idaho-matters/2022-06-09/meet-the-first-astronomer-in-residence-at-the-central-idaho-dark-sky-reserve' target='_blank'>interview</a> with Idaho Matters!
-
-Did you attend an AIR event and are willing to give feedback? Scan the QR code below!
-
-<img src="../images_pdfs/unknown.png" width="35%">
-
-### Schedule of Events:
-
-* ~~June 21, 2pm, Solar Observing at the <a href='https://www.ketchumidaho.org/administration/page/summer-solstice-celebration-warm-springs-preserve' target='_blank'>Ketchum Summer Solstice Party</a>~~
-* ~~June 22nd, 5-6pm, Public Lecture "Planet Habitability and Our Oasis on Earth" at the <a href='https://stanley.lili.org/' target='_blank'>Stanley Community Library</a>~~
-* ~~June 30th, 9:30pm, Public Observing at the Croy Trailhead~~
-* ~~July 2nd, 3pm, Children's Constellation Box Craft at the <a href='https://comlib.org/' target='_blank'>Ketchum Community Library</a>~~
-* ~~July 3rd, 9am-4pm, Solar Observing at the <a href='https://valleychamber.org/events/july-2-4-haileys-4th-of-july-parade-celebration/' target='_blank'>Hailey Antique Market</a>~~
-* ~~July 6th, 12pm, Children's "Scale of the Solar System" activity at the <a href='https://comlib.org/' target='_blank'>Ketchum Community Library</a>~~
-* ~~July 6th, 12:30-3pm, Solar Observing at the <a href='https://comlib.org/' target='_blank'>Ketchum Community Library</a>~~
-* ~~July 8th and 9th, Dusk, Public Observing with the Boise Astronomical Society at Stanley Pioneer Park~~
-* ~~July 9th, Noon, Solar Observing at the <a href='https://haileypubliclibrary.org/' target='_blank'>Hailey Public Library</a>~~
-* July 10th, 12:30-3pm, Solar observing at Redfish Lake Lodge
-* July 13th, 12-3pm, Solar Observing at the <a href='https://stanley.lili.org/' target='_blank'>Stanley Community Library</a>
-* July 13th, 6-7pm, Public Lecture "Indigenous Astronomy" at the <a href='https://stanley.lili.org/' target='_blank'>Stanley Community Library</a>
-* July 14th, 5:30-7pm, Public Lecture "Indigenous Astronomy" at the <a href='https://haileypubliclibrary.org/' target='_blank'>Hailey Public Library</a>
-
 ## Past Work
 **Different outreach groups/opportunities I have been involved with!**
 ### Skype a Scientist, Ongoing
 This nonprofit works to connect real scientists with students of all ages for virtual classroom visits, Q and A sessions, and more! Educators can learn more on their <a href='https://www.skypeascientist.com/' target='_blank'> website</a> (feel free to search my name)!
+
+### Central Idaho Dark Sky Reserve Astronomer-in-Residence, June-July 2022
+Starting in summer 2022, the AstroTAC group at Boise State (with outreach funding from NASA) is hiring an astronomer-in-residence (analogous to an artist-in-residence) to spend 4 weeks at CISDR doing public outreach work with the community! A great opportunity in a beautiful setting!
+* Check out my <a href='https://www.boisestatepublicradio.org/show/idaho-matters/2022-06-09/meet-the-first-astronomer-in-residence-at-the-central-idaho-dark-sky-reserve' target='_blank'>interview</a> with Idaho Matters!
 
 ### Dartmouth College Public Observing, 2018-2021
 If you find yourself in Hanover, come stop by on Friday nights when classes are in session to the Department of Physics and Astronomy's <a href='https://physics.dartmouth.edu/news-events/public-observing' target='_blank'> Public Observing </a> sessions! Updates on observing times and scheduling can be found on the Dartmouth PandA PO <a href='https://www.instagram.com/dartmouthpo/' target='_blank'> Instagram account.</a>
