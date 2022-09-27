@@ -1,6 +1,6 @@
 ---
 layout: mrp_post
-title: lorem ipsum
+title: Lorem Ipsum
 tags: test setup
 ---
 
