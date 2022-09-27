@@ -10,6 +10,9 @@ ul.no-bullets {
   margin: 0;
   padding: 0;
 }
+h2.no-margin{
+  margin-bottom: 0px;
+}
 </style>
 
 <h1>Master's Project Blog</h1>
@@ -17,8 +20,10 @@ ul.no-bullets {
 <ul class="no-bullets">
   {% for post in site.posts %}
     <li>
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      {{ post.date }} tags:{{ post.tags }}
+      <h2 class="no-margin"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      {{ page.date | date: "%-d %B %Y" }} 
+      tags:{{ post.tags }}
+      <br>
     </li>
   {% endfor %}
 </ul>
