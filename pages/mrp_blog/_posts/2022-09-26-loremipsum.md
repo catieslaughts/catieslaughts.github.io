@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: mrp_post
 title: lorem ipsum
 tags: test setup
 ---
