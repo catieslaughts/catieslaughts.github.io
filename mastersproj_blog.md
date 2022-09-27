@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /mrp_blog/
 ---
 
 <div class="posts">
