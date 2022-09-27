@@ -1,3 +1,11 @@
+---
+layout: default
+title: Master's Project Blog
+permalink: /mrp_blog_tags/
+---
+
+<a href="https://www.catherineslaughter.space/mrp_blog/">Sort by date</a>
+
 {% capture tags %}
   {% for tag in site.tags %}
     {{ tag[0] }}
