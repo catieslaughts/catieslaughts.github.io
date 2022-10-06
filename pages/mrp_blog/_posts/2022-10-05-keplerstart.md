@@ -45,16 +45,16 @@ Gamma andromeda:
 <br><img src="/images_pdfs/mrp_ims/kep3d_example/gamma_andromeda.png">
 
 Wolfram reference for the kepler eq. plot:
-<br><img src="../../../images_pdfs/mrp_ims/kep3d_example/wolfram_reference.png">
+<br><img src="/images_pdfs/mrp_ims/kep3d_example/wolfram_reference.png">
 
 s2 about the galactic center in 2d:
-<br><img src="../../images_pdfs/mrp_ims/kep3d_example/s2_gc_2d.png">
+<br><img src="/images_pdfs/mrp_ims/kep3d_example/s2_gc_2d.png">
 
 and 3d:
-<br><img src="../../../images_pdfs/mrp_ims/kep3d_example/s2_gc_3d.png">
+<br><img src="/images_pdfs/mrp_ims/kep3d_example/s2_gc_3d.png">
 
 if I'm understanding the coordinate systems of kep3d outputs correctly, the left-hand 2d plot is the projection of the orbit onto the plane of reference (the xy-plane with the line of sight coming from -z), so, aligning the 3d plot from the los should yield roughly the same thing:
-<br><img src="../../../images_pdfs/mrp_ims/kep3d_example/s2_gc_3d_aligned.png">
+<br><img src="/images_pdfs/mrp_ims/kep3d_example/s2_gc_3d_aligned.png">
 
 Questions:
 - So if I run kep3d, and plot Xs, Ys, that is in the observer reference frame, with the observer sitting far away along -Z, correct? While X, Y is in the frame where the plane of the orbit is in the X-Y plane?
