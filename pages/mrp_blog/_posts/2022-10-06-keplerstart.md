@@ -23,7 +23,7 @@ I also read through the docstrings the various functions. My thoughts and questi
         if np.allclose(R.value, M.value, rtol=derror):
             break
   - mean anomaly vs true anomaly:
-    ![](catieslaughts.github.io/images_pdfs/mrp_ims/orbital stuff/Mean_anomaly_diagram.png)
+    ![](catieslaughts.github.io/images_pdfs/mrp_ims/orbit_diagrams/Mean_anomaly_diagram.png)
 
 - euler:
   - sets up rotation matrices: cartesian basis? or spherical?
@@ -42,9 +42,30 @@ I ran the code basically as was (added a legend to the kepler equation plot for 
 
 Plots:
 
+Gamma andromeda:
+![](catieslaughts.github.io/images_pdfs/mrp_ims/kep3d_example/gamma_andromeda.png)
+
+Wolfram reference for the kepler eq. plot:
+![](catieslaughts.github.io/images_pdfs/mrp_ims/kep3d_example/wolfram_reference.png)
+
+s2 about the galactic center in 2d:
+![](catieslaughts.github.io/images_pdfs/mrp_ims/kep3d_example/s2_gc_2d.png)
+
+and 3d:
+![](catieslaughts.github.io/images_pdfs/mrp_ims/kep3d_example/s2_gc_3d.png)
+
+if I'm understanding the coordinate systems of kep3d outputs correctly, the left-hand 2d plot is the projection of the orbit onto the plane of reference (the xy-plane with the line of sight coming from -z), so, aligning the 3d plot from the los should yield roughly the same thing:
+![](catieslaughts.github.io/images_pdfs/mrp_ims/kep3d_example/s2_gc_3d_aligned.png)
 
 Questions:
 - So if I run kep3d, and plot Xs, Ys, that is in the observer reference frame, with the observer sitting far away along -Z, correct? While X, Y is in the frame where the plane of the orbit is in the X-Y plane?
   - because the primary is fixed at the origin, the only transformation to be made is via the Euler rotation
+- reccomendations for a good source to touch up on the details of orbital mechanics?
+
+### To Do:
+- waiting on code from prof. jackson
+  - reread appendix from paper in the mean time 
+  - how do we want to deal with useing fortran 77? I've had isssues with the observatory's ssh in the past, but can try again. Alternatively, I have compiled fortran 77 on a previous personal machine... we could try that, but im afraid the OS is newer on my current one
+- read up about orbital mechanics 
 
 
