@@ -1,0 +1,50 @@
+---
+layout: mrp_post
+title: Running kepler3.py
+tags: kepler3
+---
+(note: this post is a combination of several days spanning sep 26 - oct 5)
+
+### Today:
+Today I set up and ran the Kepler code on my computer. It seems to run correctly, albeit a little slow. 
+
+The code, as it was given to me, throws two depriciation warnings of the same type on lines 256 and 259:
+    VisibleDeprecationWarning: Creating an ndarray from ragged nested sequences (which is a list-or-tuple of lists-or-tuples-or ndarrays with different lengths or shapes) is deprecated. If you meant to do this, you must specify 'dtype=object' when creating the ndarray
+I don't foresee this causing any issues but wanted to note just in case.
+
+I also read through the docstrings the various functions. My thoughts and questions related to the most significant ones are listed below.
+
+- kepler_solve:
+  - The first guess for the eccentric anomaly E is the mean anomaly M. Does E = M in the case of a circular orbit?
+    - edit: Yes, this is clearly the case when looking at the transcendental equation, e goes to 0 so E = M
+  - the link to Terry McConnell's code in the docstring appears broken: [http://barnyard.syr.edu/quickies/kepler.c](http://barnyard.syr.edu/quickies/kepler.c)
+  - is there any particular reason the primary loop is set up as "while true?
+    while True:
+        if np.allclose(R.value, M.value, rtol=derror):
+            break
+  - mean anomaly vs true anomaly:
+    ![](catieslaughts.github.io/images_pdfs/mrp_ims/orbital stuff/Mean_anomaly_diagram.png)
+
+- euler:
+  - sets up rotation matrices: cartesian basis? or spherical?
+  - is there a difference between periastron and periapsis? is one just a more general term?
+  - "longitude of the periastron" --> relative to what?
+
+- kep3d:
+  - broken docstring link: [http://astro.geo.tu-dresden.de/~klioner/celmech.pdf](http://astro.geo.tu-dresden.de/~klioner/celmech.pdf)
+    - I would like to read this one
+  - How are velocities obtained without masses? I guess those things are "encoded" into the orbital elements?
+
+
+#### Running code
+
+I ran the code basically as was (added a legend to the kepler equation plot for my reference)
+
+Plots:
+
+
+Questions:
+- So if I run kep3d, and plot Xs, Ys, that is in the observer reference frame, with the observer sitting far away along -Z, correct? While X, Y is in the frame where the plane of the orbit is in the X-Y plane?
+  - because the primary is fixed at the origin, the only transformation to be made is via the Euler rotation
+
+
