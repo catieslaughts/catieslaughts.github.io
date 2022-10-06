@@ -22,7 +22,7 @@ I also read through the docstrings the various functions. My thoughts and questi
   - the link to Terry McConnell's code in the docstring appears outdated: [http://barnyard.syr.edu/quickies/kepler.c](http://barnyard.syr.edu/quickies/kepler.c)
   - is there any particular reason the primary loop is set up as "while true"?
   - mean anomaly vs true anomaly:
-    <br><img src="../images_pdfs/mrp_ims/orbit_diagrams/Mean_anomaly_diagram.png">
+    <br><img src="./../../../images_pdfs/mrp_ims/orbit_diagrams/Mean_anomaly_diagram.png">
 
 - euler:
   - sets up rotation matrices: cartesian basis? or spherical?
