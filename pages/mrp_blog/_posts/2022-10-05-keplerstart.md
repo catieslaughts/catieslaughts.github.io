@@ -19,7 +19,7 @@ I also read through the docstrings the various functions. My thoughts and questi
 - kepler_solve:
   - The first guess for the eccentric anomaly E is the mean anomaly M. Does E = M in the case of a circular orbit?
     - edit: Yes, this is clearly the case when looking at the transcendental equation, e goes to 0 so E = M
-  - the link to Terry McConnell's code in the docstring appears broken: [http://barnyard.syr.edu/quickies/kepler.c](http://barnyard.syr.edu/quickies/kepler.c)
+  - the link to Terry McConnell's code in the docstring appears outdated: [http://barnyard.syr.edu/quickies/kepler.c](http://barnyard.syr.edu/quickies/kepler.c)
   - is there any particular reason the primary loop is set up as "while true"?
   - mean anomaly vs true anomaly:
     <br><img src="../images_pdfs/mrp_ims/orbit_diagrams/Mean_anomaly_diagram.png">
@@ -48,7 +48,7 @@ Wolfram reference for the kepler eq. plot:
 <br><img src="../../../images_pdfs/mrp_ims/kep3d_example/wolfram_reference.png">
 
 s2 about the galactic center in 2d:
-<br><img src="../../../images_pdfs/mrp_ims/kep3d_example/s2_gc_2d.png">
+<br><img src="../../images_pdfs/mrp_ims/kep3d_example/s2_gc_2d.png">
 
 and 3d:
 <br><img src="../../../images_pdfs/mrp_ims/kep3d_example/s2_gc_3d.png">
