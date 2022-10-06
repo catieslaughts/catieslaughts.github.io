@@ -22,7 +22,7 @@ I also read through the docstrings the various functions. My thoughts and questi
   - the link to Terry McConnell's code in the docstring appears outdated: [http://barnyard.syr.edu/quickies/kepler.c](http://barnyard.syr.edu/quickies/kepler.c)
   - is there any particular reason the primary loop is set up as "while true"?
   - mean anomaly vs true anomaly:
-    <br><img src="./../../../images_pdfs/mrp_ims/orbit_diagrams/Mean_anomaly_diagram.png">
+    <br><img src="/images_pdfs/mrp_ims/orbit_diagrams/Mean_anomaly_diagram.png">
 
 - euler:
   - sets up rotation matrices: cartesian basis? or spherical?
@@ -42,7 +42,7 @@ I ran the code basically as was (added a legend to the kepler equation plot for 
 Plots:
 
 Gamma andromeda:
-<br><img src="../../../../images_pdfs/mrp_ims/kep3d_example/gamma_andromeda.png">
+<br><img src="/images_pdfs/mrp_ims/kep3d_example/gamma_andromeda.png">
 
 Wolfram reference for the kepler eq. plot:
 <br><img src="../../../images_pdfs/mrp_ims/kep3d_example/wolfram_reference.png">
