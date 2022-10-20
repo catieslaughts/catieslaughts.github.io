@@ -60,6 +60,7 @@ As such, I began by throwing together a function to write the output of the kep3
   <br><img src="/images_pdfs/mrp_ims/animations/2Danimation_2.gif" width="60%">
   
   In principle, however, I assumed I want this code to be able to plot an arbitrary number of points with different orbits, so that it can be easily expanded as we increase the complexity of our simulation. This took some effort. In particular, initializing an arbitrary number of Line2D objects was difficult, but with numpy arrays, I eventually found a solution. Playing around with some matplotlib settings to make it look nice, I created the following:
+  
   <br><img src="/images_pdfs/mrp_ims/animations/2Danimation_3.gif" width="60%">
   
   After which, it was surprisingly trivial to adapt my 2d animation code to three dimensions. The only real issue I ran into was that the function to update the z-axis data in the animate function is slightly different. But a quick google search helped me fix it quickly.
