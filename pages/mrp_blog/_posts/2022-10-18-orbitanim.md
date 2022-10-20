@@ -30,7 +30,8 @@ As such, I began by throwing together a function to write the output of the kep3
 	'''
 </code></pre>
 
-<pre><code> '''reads in the kep3d data from a csv as saved by the function save_kep3d
+<pre><code> read_kep3d(filepath = './data/', filename = 'data.csv'):
+	'''reads in the kep3d data from a csv as saved by the function save_kep3d
 	
 	Args:
 		filepath: string, path to where data should be saved, optional, defaults to pwd
