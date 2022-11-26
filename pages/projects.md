@@ -7,6 +7,14 @@ permalink: /projects/
 **Some examples of significant written reports and poster presentations, both from coursework and paid research work.**
 <br>(Do you want to <a href='http://www.catherineslaughter.space/games/'>play a game</a>?)
 ### 2022
+* AdaBoost Ensemble Learning with a Linear Halfspaces Perceptron Algorithm [[Report]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/IML_assignment1.pdf) [[Github Repo]](https://github.com/catieslaughts/IML_assignment1)
+  * Project for Introduction to Machine Learning
+  * Written in Python
+  * Machine learning methods used include:
+    * Linear Halfspaces weak learners
+    * Perceptron Algorithms
+    * Ensemble Learning via AdaBoost algorithm
+
 * Nebular Chewing Gum: A Modeled Radiation Field Search for Bubble Structures in the Greater Orion Nebula Region (School Year 2021-2022) [[Report]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/Slaughter_FirstYearProject_final.pdf)
   * First-year MSc research project
   * Used modeled radiation field code to identify regions of the Greater Orion Nebula where radiative input is not dominated by the Trapezium
@@ -14,22 +22,22 @@ permalink: /projects/
   * Identified a new fossil bubble structure around star HD 37150
 
 * Quantum Wavepacket Tunneling Simulation (Spring 2022) <a href="https://github.com/catieslaughts/quantum_wavepacket_sim" target="_blank" >[Github]</a>
-  * Project for graduate Computational Physics
+  * Project for Computational Physics
   * Written in Python
   <br><img src="../images_pdfs/quantum_sim_example.gif" width="60%">
 
 * Ising Model MCMC Simulation (Spring 2022) [[Report]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/COP_project_report2.pdf) <a href="https://github.com/catieslaughts/ising_model_sim" target="_blank" >[Github]</a>
-  * Project for graduate Computational Physics
+  * Project for Computational Physics
   * Written in Python
 
 * Argon Molecular Dynamics Simulation (Spring 2022) [[Report]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/Comp_Phys_A1.pdf) <a href="https://gitlab.com/lukas_welzel/computational-physics/-/tree/main/assignment_1" target="_blank" >[Gitlab]</a>
-  * Project for graduate Computational Physics
+  * Project for Computational Physics
   * Written in Python
   * Uses object-oriented methods
 
 ### 2021
 * Modelling Lidov-Kozai Oscillations and Tidal Friction in a System of Exomoons (Fall 2021) [[Report]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/AMUSE_FinalProj.pdf) <a href="https://github.com/peterbreslin/amuse-project" target="_blank" >[Github]</a>
-  * Term project for graduate Simulation and Modelling in Astrophysics in AMUSE
+  * Term project for Simulation and Modelling in Astrophysics in AMUSE
   * Written in Python utilizing the Astrophysical Multipurpose Software Environment
 
 * Hubble's Law and the Hubble Tension: A Brief Overview (Spring 2021) [[Paper]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/HubbleLawOverview.pdf)
