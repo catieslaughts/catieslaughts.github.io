@@ -7,7 +7,7 @@ permalink: /projects/
 **Some examples of significant written reports and poster presentations, both from coursework and paid research work.**
 <br>(Do you want to <a href='http://www.catherineslaughter.space/games/'>play a game</a>?)
 ### 2022
-* AdaBoost Ensemble Learning with a Linear Halfspaces Perceptron Algorithm [[Report]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/IML_assignment1.pdf) [[Github Repo]](https://github.com/catieslaughts/IML_assignment1)
+* AdaBoost Ensemble Learning with a Linear Halfspaces Perceptron Algorithm [[Report]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/IML_Assignment1.pdf) [[Github Repo]](https://github.com/catieslaughts/IML_assignment1)
   * Project for Introduction to Machine Learning
   * Written in Python
   * Machine learning methods used include:
