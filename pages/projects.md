@@ -68,7 +68,7 @@ permalink: /projects/
     * Final Project for graduate-level Observational Galactic Astrophysics
     * Written in Python using Jupyter
 
-* Observational Basis for Standard Big Bang Nucleosynthesis and Modeling in PRIMAT (Winter 2021) [[Paper]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/Slaughter_P92_Final.pdf) 
+* Observational Basis for Standard Big Bang Nucleosynthesis and Modeling in PRIMAT (Winter 2021) [[Report]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/proj_reports/Slaughter_P92_Final.pdf) 
     * Final paper for graduate-level Cosmology
 
 ### 2020
@@ -85,7 +85,7 @@ permalink: /projects/
      * Poster presented virtually at Physics and Astronomy Department Symposium May 2020
    <br><img src="../images_pdfs/proj_imgs/thesisPrelim.jpg" width="60%">
    
-* Using SED Model Fitting to Search for Star-Forming Galaxies at z>4.5 (Winter 2020) [[Paper]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/A25FinalProj.pdf) [[Poster]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/proj_posters/A25_finalPoster.pdf)
+* Using SED Model Fitting to Search for Star-Forming Galaxies at z>4.5 (Winter 2020) [[Report]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/proj_reports/A25FinalProj.pdf) [[Poster]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/proj_posters/A25_finalPoster.pdf)
      * Final project for an intermediate-level Astronomy class ("Galaxies and Cosmology")
    <br><img src="../images_pdfs/proj_imgs/A25_finalPoster.jpg" width="50%">
    
@@ -98,7 +98,7 @@ permalink: /projects/
      * Final project for a Digital Electronics class
      * Code written primarily in VHDL
    
-* A Deeper Analysis of Cataclysmic Variable V383 Vel (Winter 2019) [[Paper]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/A81FinalProj.pdf)
+* A Deeper Analysis of Cataclysmic Variable V383 Vel (Winter 2019) [[Report]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/proj_reports/A81FinalProj.pdf)
      * Final Paper for a Special Topics class in Astronomy
      * Completed as part of a study-abroad to South Africa
      * Project included a week-long observing run at SAAO
