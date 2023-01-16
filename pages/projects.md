@@ -7,7 +7,7 @@ permalink: /projects/
 **Some examples of significant written reports and poster presentations, both from coursework and paid research work.**
 <br>(Do you want to <a href='http://www.catherineslaughter.space/games/'>play a game</a>?)
 ### 2022
-* SDSS Object Classification with Random Forest [[Report]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/IML_Assignment2.pdf) [[Github Repo]](https://github.com/catieslaughts/IML_assignment2)
+* SDSS Object Classification with Random Forest (Fall 2022) [[Report]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/IML_Assignment2.pdf) [[Github Repo]](https://github.com/catieslaughts/IML_assignment2)
   * Project for Introduction to Machine Learning
   * Classification of a number of SDSS objects as stars, QSOs, and galaxies
   * Written in Python using Jupyter
@@ -23,7 +23,8 @@ permalink: /projects/
     * Simple Cross-Validation
     * Random Forest Ensemble Learning
     * Grid Search Cross-Validation for Metaparameter Tuning
-* AdaBoost Ensemble Learning with a Linear Halfspaces Perceptron Algorithm [[Report]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/IML_Assignment1.pdf) [[Github Repo]](https://github.com/catieslaughts/IML_assignment1)
+  * Final Grade: A
+* AdaBoost Ensemble Learning with a Linear Halfspaces Perceptron Algorithm (Fall 2022) [[Report]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/IML_Assignment1.pdf) [[Github Repo]](https://github.com/catieslaughts/IML_assignment1)
   * Project for Introduction to Machine Learning
   * Written in Python
   * Machine learning methods used include:
@@ -37,6 +38,7 @@ permalink: /projects/
   * Used modeled radiation field code to identify regions of the Greater Orion Nebula where radiative input is not dominated by the Trapezium
   * Studied equivalent regions in Herschel 70/160 micron and SOFIA CII data
   * Identified a new fossil bubble structure around star HD 37150
+  * Final Grade: A
 
 * Quantum Wavepacket Tunneling Simulation (Spring 2022) <a href="https://github.com/catieslaughts/quantum_wavepacket_sim" target="_blank" >[Github]</a>
   * Project for Computational Physics
