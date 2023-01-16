@@ -64,7 +64,7 @@ permalink: /projects/
     * Final paper for intro-level History and Philosophy of Science class
     * Base-level description of the Hubble Tension
 
-* Determining the age of ε Chamaeleontis with MIST Isochrones (Winter 2021) [[Report]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/proj_reports/images_pdfs/A117.pdf) [[Analysis Toolkit]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/A117_analysistoolkit.zip) 
+* Determining the age of ε Chamaeleontis with MIST Isochrones (Winter 2021) [[Report]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/proj_reports/A117.pdf) [[Analysis Toolkit]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/A117_analysistoolkit.zip) 
     * Final Project for graduate-level Observational Galactic Astrophysics
     * Written in Python using Jupyter
 
