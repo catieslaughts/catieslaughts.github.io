@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 # Significant Projects
---Some examples of significant written reports and poster presentations, both from coursework and paid research work.--
+**Some examples of significant written reports and poster presentations, both from coursework and paid research work.**
 <br>(Do you want to <a href='http://www.catherineslaughter.space/games/'>play a game</a>?)test
 ### 2022
 - SDSS Object Classification with Random Forest (Fall 2022) [[Report]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/proj_reports/IML_Assignment2.pdf) <a href="https://github.com/catieslaughts/IML_assignment2" target="_blank" >[Github]</a>
