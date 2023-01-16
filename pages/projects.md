@@ -7,6 +7,22 @@ permalink: /projects/
 **Some examples of significant written reports and poster presentations, both from coursework and paid research work.**
 <br>(Do you want to <a href='http://www.catherineslaughter.space/games/'>play a game</a>?)
 ### 2022
+* SDSS Object Classification with Random Forest [[Report]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/IML_Assignment2.pdf) [[Github Repo]](https://github.com/catieslaughts/IML_assignment2)
+  * Project for Introduction to Machine Learning
+  * Classification of a number of SDSS objects as stars, QSOs, and galaxies
+  * Written in Python using Jupyter
+  * Machine learning methods used include:
+    * Dimensionality Reduction:
+      * Principle Component Analysis (PCA)
+      * Uniform Manifold Approximation and Projection (UMAP)
+      * T-Distributed Stochastic Neighbor Embedding (TSNE)
+    * Clustering:
+      * K-means
+      * Density-based Spatial Clustering of Applications with Noise (DBSCAN)
+    * Binary Tree Learners
+    * Simple Cross-Validation
+    * Random Forest Ensemble Learning
+    * Grid Search Cross-Validation for Metaparameter Tuning
 * AdaBoost Ensemble Learning with a Linear Halfspaces Perceptron Algorithm [[Report]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/IML_Assignment1.pdf) [[Github Repo]](https://github.com/catieslaughts/IML_assignment1)
   * Project for Introduction to Machine Learning
   * Written in Python
@@ -14,6 +30,7 @@ permalink: /projects/
     * Linear Halfspaces weak learners
     * Perceptron Algorithms
     * Ensemble Learning via AdaBoost algorithm
+  * Final Grade: B
 
 * Nebular Chewing Gum: A Modeled Radiation Field Search for Bubble Structures in the Greater Orion Nebula Region (School Year 2021-2022) [[Report]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/Slaughter_FirstYearProject_final.pdf)
   * First-year MSc research project
