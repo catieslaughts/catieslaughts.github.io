@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 # Significant Projects
 **Some examples of significant written reports and poster presentations, both from coursework and paid research work.**
-<br>(Do you want to <a href='http://www.catherineslaughter.space/games/'>play a game</a>?)
+<br>(Do you want to <a href='http://www.catherineslaughter.space/games/'>play a game</a>?)test
 ### 2022
 * SDSS Object Classification with Random Forest (Fall 2022) [[Report]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/proj_reports/IML_Assignment2.pdf) <a href="https://github.com/catieslaughts/IML_assignment2" target="_blank" >[Github]</a>
     * Project for Introduction to Machine Learning
@@ -33,7 +33,7 @@ permalink: /projects/
         * Perceptron Algorithms
         * Ensemble Learning via AdaBoost algorithm
 
-* Nebular Chewing Gum: A Modeled Radiation Field Search for Bubble Structures in the Greater Orion Nebula Region (School Year 2021-2022) [[Report]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/proj_reports/Slaughter_FirstYearProject_final.pdf) <a href="aas241-aas.ipostersessions.com/Default.aspx?s=41-6C-57-15-82-B4-37-FF-FD-3B-41-29-E1-FD-C6-82" target="_blank" >[iPoster]</a>
+* Nebular Chewing Gum: A Modeled Radiation Field Search for Bubble Structures in the Greater Orion Nebula Region (School Year 2021-2022) [[Report]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/proj_reports/Slaughter_FirstYearProject_final.pdf) <a href="https://aas241-aas.ipostersessions.com/Default.aspx?s=41-6C-57-15-82-B4-37-FF-FD-3B-41-29-E1-FD-C6-82" target="_blank" >[iPoster]</a>
     * First-year MSc research project
     * Used modeled radiation field code to identify regions of the Greater Orion Nebula where radiative input is not dominated by the Trapezium
     * Studied equivalent regions in Herschel 70/160 micron and SOFIA CII data
