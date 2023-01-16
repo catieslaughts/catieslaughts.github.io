@@ -23,7 +23,7 @@ permalink: /projects/
          * Simple Cross-Validation
          * Random Forest Ensemble Learning
          * Grid Search Cross-Validation for Metaparameter Tuning
-     * Final Grade: A
+   <br><img src="../images_pdfs/proj_imgs/trainvsvalidation.pdf" width="60%">
 
 * AdaBoost Ensemble Learning with a Linear Halfspaces Perceptron Algorithm (Fall 2022) [[Report]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/proj_reports/IML_Assignment1.pdf) <a href="https://github.com/catieslaughts/IML_assignment1" target="_blank" >[Github]</a>
     * Project for Introduction to Machine Learning
@@ -32,14 +32,14 @@ permalink: /projects/
         * Linear Halfspaces weak learners
         * Perceptron Algorithms
         * Ensemble Learning via AdaBoost algorithm
-    * Final Grade: B
 
-* Nebular Chewing Gum: A Modeled Radiation Field Search for Bubble Structures in the Greater Orion Nebula Region (School Year 2021-2022) [[Report]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/proj_reports/Slaughter_FirstYearProject_final.pdf)
+* Nebular Chewing Gum: A Modeled Radiation Field Search for Bubble Structures in the Greater Orion Nebula Region (School Year 2021-2022) [[Report]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/proj_reports/Slaughter_FirstYearProject_final.pdf) [[iPoster]](aas241-aas.ipostersessions.com/Default.aspx?s=41-6C-57-15-82-B4-37-FF-FD-3B-41-29-E1-FD-C6-82)
     * First-year MSc research project
     * Used modeled radiation field code to identify regions of the Greater Orion Nebula where radiative input is not dominated by the Trapezium
     * Studied equivalent regions in Herschel 70/160 micron and SOFIA CII data
     * Identified a new fossil bubble structure around star HD 37150
-    * Final Grade: A
+    * Presented as an iPoster at AAS 241
+   <br><img src="../images_pdfs/proj_imgs/FYRP_iposter.jpg" width="60%">
 
 * Quantum Wavepacket Tunneling Simulation (Spring 2022) <a href="https://github.com/catieslaughts/quantum_wavepacket_sim" target="_blank" >[Github]</a>
     * Project for Computational Physics
@@ -59,6 +59,7 @@ permalink: /projects/
 * Modelling Lidov-Kozai Oscillations and Tidal Friction in a System of Exomoons (Fall 2021) [[Report]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/proj_reports/AMUSE_FinalProj.pdf) <a href="https://github.com/peterbreslin/amuse-project" target="_blank" >[Github]</a>
     * Term project for Simulation and Modelling in Astrophysics in AMUSE
     * Written in Python utilizing the Astrophysical Multipurpose Software Environment
+   <br><img src="../images_pdfs/proj_imgs/LKdiagram.png" width="60%">
 
 * Hubble's Law and the Hubble Tension: A Brief Overview (Spring 2021) [[Paper]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/proj_reports/HubbleLawOverview.pdf)
     * Final paper for intro-level History and Philosophy of Science class
@@ -75,6 +76,7 @@ permalink: /projects/
 * Modeling Tidal Disruption Events in a Classical Regime (Fall 2020) [[Report]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/proj_reports/tidaldisruption_Report.pdf) <a href="https://youtu.be/Jdm8zmiU0OY" target="_blank" >[Video] </a> <a href="https://github.com/catieslaughts/tidal-disruption-sim" target="_blank" >[Github]</a>
      * Final project for an upper-level Physical Modeling class (COSC 89.18)
      * Written in C++
+<br><img src="../images_pdfs/proj_imgs/tidaldisruption_example.gif" width="60%">
    
 * Analyzing Straylight X-Ray Binaries with NuSTAR (Summer 2020) [[Report]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/proj_reports/SURF_FinalReport.pdf)[[Poster]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/proj_posters/SURFfinalPoster.pdf)
      * SURF project completed Summer 2020. Poster presented at virtual seminar for Caltech SFP students
