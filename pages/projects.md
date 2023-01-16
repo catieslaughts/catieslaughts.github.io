@@ -23,7 +23,7 @@ permalink: /projects/
          * Simple Cross-Validation
          * Random Forest Ensemble Learning
          * Grid Search Cross-Validation for Metaparameter Tuning
-   <br><img src="https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/proj_imgs/trainvsvalidation.pdf" width="60%">
+   <br><img src="https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/proj_imgs/trainvsvalidation.jpg" width="60%">
 
 * AdaBoost Ensemble Learning with a Linear Halfspaces Perceptron Algorithm (Fall 2022) [[Report]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/proj_reports/IML_Assignment1.pdf) <a href="https://github.com/catieslaughts/IML_assignment1" target="_blank" >[Github]</a>
     * Project for Introduction to Machine Learning
