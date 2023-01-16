@@ -24,7 +24,7 @@ permalink: /projects/
          - Random Forest Ensemble Learning
          - Grid Search Cross-Validation for Metaparameter Tuning
    <br><img src="https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/proj_imgs/trainvsvalidation.jpg" width="60%">
-<br>
+<br><br>
 
 - AdaBoost Ensemble Learning with a Linear Halfspaces Perceptron Algorithm (Fall 2022) [[Report]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/proj_reports/IML_Assignment1.pdf) <a href="https://github.com/catieslaughts/IML_assignment1" target="_blank" >[Github]</a>
     - Project for Introduction to Machine Learning
@@ -33,7 +33,7 @@ permalink: /projects/
         - Linear Halfspaces weak learners
         - Perceptron Algorithms
         - Ensemble Learning via AdaBoost algorithm
-<br>
+<br><br>
 
 - Nebular Chewing Gum: A Modeled Radiation Field Search for Bubble Structures in the Greater Orion Nebula Region (School Year 2021-2022) [[Report]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/proj_reports/Slaughter_FirstYearProject_final.pdf) <a href="https://aas241-aas.ipostersessions.com/Default.aspx?s=41-6C-57-15-82-B4-37-FF-FD-3B-41-29-E1-FD-C6-82" target="_blank" >[iPoster]</a>
     - First-year MSc research project
