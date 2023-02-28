@@ -24,7 +24,7 @@ h1.no-margin{
 <br><br>
 
 <ul class="no-bullets">
-  {% for post in site.pages.mrp_blog.posts %}
+  {% for post in site.posts.mrp %}
     <li>
       <h2 class="no-margin"><a href="{{ post.url }}">{{ post.title }}</a></h2>
       {{ post.date | date: "%-d %B %Y" }} <br>
