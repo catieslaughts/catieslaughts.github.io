@@ -2,7 +2,6 @@
 layout: as_post
 title: Test Post
 tags: setup test
-categories: MRP
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ornare venenatis purus at rutrum. Phasellus efficitur elit non lorem imperdiet, nec euismod dui hendrerit. Nullam ac lectus luctus, fermentum velit ut, tincidunt nisi. Ut ornare lectus ex, vitae maximus justo condimentum tristique. Praesent eleifend pellentesque massa sed condimentum. Aliquam erat volutpat. Morbi vitae nibh tristique nisl scelerisque vulputate sed a tellus.
