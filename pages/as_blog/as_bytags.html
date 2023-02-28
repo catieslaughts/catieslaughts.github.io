@@ -36,6 +36,6 @@ h1.blue{
     {% endfor %}
   {% endfor %}
 {% endcapture %}
-{% assign sortedtags = tags | uniq | split:' ' | sort %}
+{% assign sortedtags = tags | split:' ' | sort | uniq |%}
 
 <h3>{{ sortedtags }}</h3>
