@@ -30,13 +30,12 @@ h1.blue{
 <h2>Tags:</h2>
 
 {% capture tags %}
-  {% for tag in site.tags %}
+  {% for tag in site.tags | where: "categories", "as_blog" %}
     {{ tag[0] }}
   {% endfor %}
 {% endcapture %}
 {% assign sortedtags = tags | split:' ' | sort %}
 
 {% for tag in sortedtags %}
-  {% assign zz = tag[1] | where: "categories", "as_blog" %}
-  <h3>{{ zz }}</h3>
+  <h3>{{ tag }}</h3>
 {% endfor %}
