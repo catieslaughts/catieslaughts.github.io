@@ -2,6 +2,7 @@
 layout: mrp_post
 title: Running kepler3.py
 tags: kepler3
+categories: MRP
 ---
 (note: this post is a combination of several days spanning sep 26 - oct 5)
 
