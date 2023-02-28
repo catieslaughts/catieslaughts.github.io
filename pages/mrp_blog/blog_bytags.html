@@ -18,21 +18,28 @@ h1.no-margin{
 <h2>Tags:</h2>
 
 {% capture tags %}
-  {% for tag in site.tags %}
-    {{ tag[0] }}
+  {% for post in site.categories.mrp_blog %}
+    {% for tag in post.tags %}
+      {{ tag }}
+    {% endfor %}
   {% endfor %}
 {% endcapture %}
-{% assign sortedtags = tags | split:' ' | sort %}
+{% assign sortedtags = tags | split:' ' | sort | uniq |%}
 
 {% for tag in sortedtags %}
-  <h3 id="{{ tag }}">{{ tag }}</h3>
-  <ul>
+  <h2 id="{{ tag }}">{{ tag | upcase |}}</h2>
+  <ul class="no-bullets">
   {% for post in site.categories.mrp_blog %}
     {% if post.tags contains tag %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      <li>
+        <h3 style='line-height: 0.1em;' class='no-margin'><a href="{{ post.url }}">{{ post.title }}</a></h3>
+        {{ post.date | date: "%B %e, %Y" }} <br>
+      </li>
     {% endif %}
   {% endfor %}
+  <br>
   </ul>
+{% endfor %}
 {% endfor %}
 
 
