@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Academic Standing (TEST)
+title: Academic Standing
 permalink: /academic_standing/
 ---
 
@@ -21,10 +21,12 @@ h1.no-margin{
 <a href="https://www.catherineslaughter.space/as_time/">View all posts</a>
 <br><br>
 
-<h1 class="no-margin">Recent Posts TEST</h1>
+<h1 div style='text-align:center'>Academic Standing: The Hidden Curriculum Syllabus<h1>
+
+<h1 class="no-margin">Recent Posts</h1>
 
 <ul class="no-bullets">
-  {% for post in site.asposts %}
+  {% for post in site.asposts limit:3 %}
     <li>
       <h2 class="no-margin"><a href="{{ post.url }}">{{ post.title }}</a></h2>
       {{ post.date | date: "%-d %B %Y" }} <br>
