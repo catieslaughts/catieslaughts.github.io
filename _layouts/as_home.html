@@ -27,7 +27,7 @@ h1.blue{
 
 {{content}}
 
-<h2 class = 'no-margin'>Recent Posts:</h2>
+<h2 class = 'no-margin'>Recent Posts:</h2><br>
 
 <ul class="no-bullets">
   {% for post in site.categories.as_blog limit:3 %}
@@ -36,6 +36,7 @@ h1.blue{
       {{ post.date | date: "%B %e, %Y" }} <br>
       tags: {% for tag in post.tags %} {{ tag }}, {% endfor %} <br>
       {{ post.excerpt }}
+      <br>
     </li>
   {% endfor %}
 </ul>
