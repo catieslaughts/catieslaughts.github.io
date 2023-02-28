@@ -26,8 +26,9 @@ h1.blue{
 <h1 style='text-align:center' class = 'blue'><a href="https://www.catherineslaughter.space/academic_standing/">Academic Standing</a><h1>
 <h2 style='text-align:center' class = 'no-margin'>All Posts</h2>
 <br><br>
-  
- <h3>{{ site.categories.as_blog[1].tags }}</h3>
+
+{% for post in site.categories.as_blog[1] %}
+  <h3>{{ post.tags }}</h3>
 
 <h2>Tags:</h2>
   
