@@ -37,12 +37,12 @@ h1.blue{
 {% assign sortedtags = tags | split:' ' | sort | uniq |%}
 
 {% for tag in sortedtags %}
-  <h2 id="{{ tag }}">{{ tag | upcase |}}</h2>
+  <h2 class='no-margin' id="{{ tag }}">{{ tag | upcase |}}</h2>
   <ul class="no-bullets">
   {% for post in site.categories.as_blog %}
     {% if post.tags contains tag %}
       <li>
-        <h3 style='font-weight:normal' class='no-margin'><a style='font-weight:bold' href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%B %e, %Y" }}</h3>
+        <h3 style='font-weight:normal; margin-top:15px' class='no-margin'><a style='font-weight:bold' href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%B %e, %Y" }}</h3>
       </li>
     {% endif %}
   {% endfor %}
