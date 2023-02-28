@@ -39,6 +39,7 @@ h1.blue{
 {% for tag in sorted_tags %}
   {% assign zz = tag[1] | where: "categories", "as_blog" | sort %}
   {% if zz != empty %}
+    <p> AHHHHHHHHHHHHH </p>
     <li><span class="tag">{{ tag[0] }}</span>
     <ul>
     {% for post in zz %}
