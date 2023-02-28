@@ -37,6 +37,6 @@ h1.blue{
 {% assign sortedtags = tags | split:' ' | sort %}
 
 {% for tag in sortedtags %}
-  {% assign zz = tag | where: "categories", "as_blog" %}
+  {% assign zz = tag[1] | where: "categories", "as_blog" %}
   <h3>{{ zz }}</h3>
 {% endfor %}
