@@ -1,6 +1,6 @@
 ---
 layout: as_post
-title: Test Post
+title: Test Post 2
 tags: setup test
 ---
 
