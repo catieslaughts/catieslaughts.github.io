@@ -2,6 +2,7 @@
 layout: mrp_post
 title: Orbit Animations from kep3d output
 tags: kepler3 animation 3d 2d orbital
+categories: MRP
 ---
 
 This week, I've been focused on writing code that an animate the outputs from the kep3d function, as well as (to the best of my ability) establishing the infrastructure I'll need to use this code in more general cases.
