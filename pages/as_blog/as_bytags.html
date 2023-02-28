@@ -30,26 +30,18 @@ h1.blue{
 <h2>Tags:</h2>
 AHHHHHHHHHHHHH 1
 
-{% capture tags %}
-  {% for tag in site.tags %}
-    {{ tag[0] }}
-  {% endfor %}
-{% endcapture %}
-{% assign sortedtags = tags | split:' ' | sort %}
-
+{% assign sorted_tags = site.tags | sort %}
 {% for tag in sorted_tags %}
-  {% assign zz = tag[1] | where: "categories", "as_blog" | sort %}
-  {% if zz != empty %}
-    AHHHHHHHHHHHHH 2
-    <li><span class="tag">{{ tag[0] }}</span>
-    <ul>
-    {% for post in zz %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-    </ul>
-    </li>
-  {% else %}
-    AHHHHHHHHHHHHH 3
-  {% endif %}
+{% assign zz = tag[1] | where: "category", "Photoshop" | sort %}
+{% if zz != empty %}
 
-{% endfor %}
+<li><span class="tag">{{ tag[0] }}</span>
+<ul>
+  {% for p in zz %}
+  <li><a href="{{ p.url }}">{{ p.title }}</a></li>
+  {% endfor %}
+ </ul>
+ </li>
+ {% endif %}
+
+ {% endfor %}
