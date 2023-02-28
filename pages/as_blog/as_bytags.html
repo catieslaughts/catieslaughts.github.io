@@ -27,6 +27,9 @@ h1.blue{
 <h2 style='text-align:center' class = 'no-margin'>All Posts</h2>
 <br><br>
 
+  
+<h3> site.categories.as_blog </h3>
+  
 <h2>Tags:</h2>
   
 {% capture tags %}
@@ -39,7 +42,7 @@ h1.blue{
 {% for tag in sortedtags %}
   <h3 id="{{ tag }}">{{ tag }}</h3>
   <ul>
-  {% for post in site.categories.mrp_blog %}
+  {% for post in site.categories.as_blog %}
     {% if post.tags contains tag %}
       <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endif %}
