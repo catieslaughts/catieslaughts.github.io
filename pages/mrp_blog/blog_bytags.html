@@ -27,10 +27,12 @@ h1.no-margin{
 {% for tag in sortedtags %}
   <h3 id="{{ tag }}">{{ tag }}</h3>
   <ul>
-  {% for post in site.tags[tag] %}
-    {% if post in site.categories.mrp_blog %}
+  {% for post in site.categories.mrp_blog %}
+    {% if post.tags contains tag %}
       <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endif %}
   {% endfor %}
   </ul>
 {% endfor %}
+
+
