@@ -42,7 +42,7 @@ h1.blue{
   {% for post in site.categories.as_blog %}
     {% if post.tags contains tag %}
       <li>
-        <h3 style='font-weight:normal; margin-top:15px' class='no-margin'>&emsp<a style='font-weight:bold' href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%B %e, %Y" }}</h3>
+        <h3 style='font-weight:normal; margin-top:15px' class='no-margin'> &emsp; <a style='font-weight:bold' href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%B %e, %Y" }}</h3>
       </li>
     {% endif %}
   {% endfor %}
