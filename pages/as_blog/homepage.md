@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: as_home
 title: Academic Standing
 permalink: /academic_standing/
 ---
