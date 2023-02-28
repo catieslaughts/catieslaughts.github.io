@@ -41,5 +41,7 @@ h1.blue{
 {% endfor %}
 
 {% if zz != empty %}
-  <h3> AHHHH </h3>
+  {% for p in zz %}
+  <h3>{{ p.title }}</h3>
+  {% endfor %}
 {% endif %}
