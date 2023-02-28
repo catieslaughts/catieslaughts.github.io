@@ -40,9 +40,3 @@ h1.blue{
   {% assign zz = tag | where: "categories", "as_blog" %}
   <h3>{{ zz }}</h3>
 {% endfor %}
-
-{% if zz != empty %}
-  {% for p in zz %}
-  <h3>{{ p.title }}</h3>
-  {% endfor %}
-{% endif %}
