@@ -40,6 +40,6 @@ h1.blue{
   {% assign zz = tag[1] | where: 'category', 'as_blog' %}
 {% endfor %}
 
-{% if zz == empty %}
+{% if zz != empty %}
   <h3> AHHHH </h3>
 {% endif %}
