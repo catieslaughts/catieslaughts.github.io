@@ -44,7 +44,7 @@ h1.blue{
   {% for post in site.categories.as_blog %}
     {% if post.tags contains tag %}
       <li>
-        <h4 style='font-weight:normal' class='no-margin'><a style='font-weight:bold' href="{{ post.url }}">{{ post.title }}</a>--{{ post.date | date: "%B %e, %Y" }}</h4> <br>
+        <h4 style='font-weight:normal' class='no-margin'><a style='font-weight:bold' href="{{ post.url }}">{{ post.title }}</a>–{{ post.date | date: "%B %e, %Y" }}</h4> <br>
       </li>
     {% endif %}
   {% endfor %}
