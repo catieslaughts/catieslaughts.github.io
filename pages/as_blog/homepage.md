@@ -21,4 +21,4 @@ Lack of teaching about the hidden curriculum can and does prevent early-career a
 - My experiences are neither universal nor all-encompassing. If you have thoughts or experiences you'd be willing to share, consider submitting a guest post! I'm particularly interested in hearing from folks who are willing to talk about dealing with university administration, especially financial aid, but am welcome to anything!
 
 #### Read more:
-Orón Semper, J.V., Blasco, M. Revealing the Hidden Curriculum in Higher Education. *Stud Philos Educ* **37**, 481–498 (2018). https://doi.org/10.1007/s11217-018-9608-5
+Orón Semper, J.V., Blasco, M. Revealing the Hidden Curriculum in Higher Education. *Stud Philos Educ*  **37**, 481–498 (2018). [https://doi.org/10.1007/s11217-018-9608-5](https://doi.org/10.1007/s11217-018-9608-5)
