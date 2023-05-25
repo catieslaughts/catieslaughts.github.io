@@ -2,6 +2,7 @@
 title: "How Do I Write A Cold Email?"
 date: 2023-05-25
 author: Catherine Slaughter
+affil: Leiden Observatory
 layout: as_post
 tags: communication email general_advice
 ---
@@ -20,14 +21,14 @@ Regardless of why you're sending such a message, the general structure and expec
 
 Stealing this idea from a meme I saw online years ago, I like to outline the general structure of an effective cold email via the "Inigo Montoya" format. Those who have seen *The Princess Bride* will be familiar with the courageous Inigo Montoya, most commonly recognized for his iconic introduction:
 
-"My name is Inigo Montoya,
-you killed my father,
-prepare to die."
+"My name is Inigo Montoya.
+You killed my father.
+Prepare to die."
 
 This piece of pop culture serves as a great example, because in these few lines, Inigo illustrates the three main points that you want to put forth in a cold email. Namely:
 1. An introduction to who you are ("My name is Inigo Montoya")
-2. RELEVANT context for how you relate to the person you are speaking with (you killed my father)
-3. Setting an expectation for what you are hoping to achieve out of this interaction (prepare to die)
+2. RELEVANT context for how you relate to the person you are speaking with ("You killed my father")
+3. Setting an expectation for what you are hoping to achieve out of this interaction ("Prepare to die")
 
 Another thing to note about the classic Inigo line is it's *brevity*. The people you are interacting with are most likely going to be incredibly busy, and do not have the time to read paragraphs of your life story. Depending on context, one way you can expand upon the information you provide in these emails is by attaching your CV or an abbreviated Resume.
 
