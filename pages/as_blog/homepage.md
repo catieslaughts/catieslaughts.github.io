@@ -4,10 +4,18 @@ title: Academic Standing
 permalink: /academic_standing/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ornare venenatis purus at rutrum. Phasellus efficitur elit non lorem imperdiet, nec euismod dui hendrerit. Nullam ac lectus luctus, fermentum velit ut, tincidunt nisi. Ut ornare lectus ex, vitae maximus justo condimentum tristique. Praesent eleifend pellentesque massa sed condimentum. Aliquam erat volutpat. Morbi vitae nibh tristique nisl scelerisque vulputate sed a tellus.
+<p style="text-align: center;"><b>Have a guest post to submit? Send me an email at the address listed on my <a href="http://www.catherineslaughter.space/contact/">contact page</a>, with subject "AS guest post (topic)"</b></p>
 
- 
-Ut imperdiet elit erat. Nulla in rhoncus neque, et consectetur dui. Morbi nec velit nec lorem consequat viverra quis sit amet neque. Duis augue arcu, auctor quis arcu eu, tincidunt luctus lectus. Sed vitae elementum enim, sodales rutrum enim. Cras consequat neque id tempor vehicula. Morbi eget commodo libero. Ut pellentesque felis massa, vel malesuada erat porta sed.
+### What is the "hidden curriculum"?
 
+"This" my AP Literature teacher announced from the front of the classroom, "is exactly the sort of thing you're going to be expected to know next year, but may not have been taught to you." On the board, she projected a simple lesson, found online, titled _How to Write a Professional Email_. "It's called the hidden curriculum, ladies, and far too often, students are not given the benefit of the doubt when they don't know it." I was not always a diligent note-taker, but I remember writng down every word.
 
-Sed eget sagittis lacus. Sed convallis finibus placerat. Donec efficitur feugiat dui, ac vehicula felis bibendum id. Curabitur maximus lacinia augue. Nulla placerat imperdiet ante, a finibus tellus mollis et. Maecenas justo ligula, tincidunt sed velit id, pharetra sodales lorem. Aliquam ultricies iaculis enim, ut ultrices dui lacinia a. In tempus tincidunt dui. Donec ut libero consectetur, fermentum diam ut, pretium elit.
+Of the many lessons I learned in AP Lit my senior year of high school, my teacher's words from that early autumn morning continue to stick out to me to this day. As someone who has often struggled, and sometimes continues to struggle, with unspoken social rules and expectations, I spend far too much of my time thinking about the hidden curriculum. 
+
+As defined in Semper and Blasco (2018), the hidden curriculum is "what is implicit and embedded in educational experiences in contrast with the formal statements about curricula and the surface features of educational interaction". Or, in simpler terms, the hidden curriculum is all the things you are expected to learn and know as a student, but that are not explictly taught. These can be things like how to write a proper email, the best way to engage with a professor or other staff members, course selection, and much more. The sorts of unspoken expectations that disproportionately hurt neurodivergent students, and students who do not have contacts to help them learn to "play the game," especially first-gen students.
+
+Lack of teaching about the hidden curriculum can and does prevent early-career academics and students from reaching their full potentials. Often leaving students confused, or a general sense of "not belonging" in academic institutions. While this site does NOT qualify as a formal advice blog, I simply hope that it may be of use to some student(s) to have access to a place to discuss all those things that you will not find in your textbooks.
+
+#### Some Quick Notes:
+- I am an astronomer, and as such, my experiences and insight are often going to be biased toward astronomy and other related fields. To the extent that it is possible, I will attempt to tag posts with descriptors specifying this.
+- My experiences are neither universal not all-encompassing. If you have thoughts or experiences you'd be willing to share, consider submitting a guest post! I'm particularly interested in hearing from folks who are willing to talk about dealing with university administration, especially financial aid, but am welcome to anything!
