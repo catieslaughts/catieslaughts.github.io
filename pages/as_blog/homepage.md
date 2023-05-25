@@ -4,7 +4,7 @@ title: Academic Standing
 permalink: /academic_standing/
 ---
 
-<p style="text-align: center;"><b>Have a guest post to submit? Send me an email at the address listed on my <a href="http://www.catherineslaughter.space/contact/">contact page</a>, with subject "AS guest post (topic)"</b></p>
+<p style="text-align: center;"><b>Have a guest post to submit? Send me an email at the address listed in the sidebar, with subject "AS guest post (topic)"</b></p>
 
 ### What is the "hidden curriculum"?
 
