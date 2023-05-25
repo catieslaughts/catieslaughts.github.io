@@ -17,9 +17,6 @@ h1.blue{
   line-height: 0.1em;
   color:#001273;
 }
-br{
-  line-height: 500%;
-}
 </style>
 
 <a style='text-align:right; display:block;' href="https://www.catherineslaughter.space/as_time/">Post List</a>
@@ -28,7 +25,7 @@ br{
 <h2 style='text-align:center' class = 'no-margin'>{{ page.title }}</h2>
 {{ page.author }}<br>{{ page.date | date: "%B %e, %Y" }}
 
-{{ content }}
+<p>{{ content }}</p>
 
 <script src="https://utteranc.es/client.js"
         repo="catieslaughts/catieslaughts.github.io"
