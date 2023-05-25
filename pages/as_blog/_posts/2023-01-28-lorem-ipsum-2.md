@@ -2,6 +2,7 @@
 layout: as_post
 title: Test Post 2
 author: Catherine Slaughter
+affil: University
 tags: setup test
 ---
 
