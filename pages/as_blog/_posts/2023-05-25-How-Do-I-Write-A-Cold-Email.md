@@ -36,16 +36,16 @@ So, for example, if I were a first-year undergrad reaching out to a potential re
 
 Dear \[honorific\] \[last name\],
 
-My name is \[name\] and I am a freshman \[subject\] major here at \[University\]. *(Intro)*
-I am interested in conducting undergraduate research in \[subject\], and recently came across your work with \[subfield/topic\]. I have some experience with this topic from \[past experience\] *(Relevant context)*
-I was wondering if you would be looking to take on any undergraduate advisees in the near future. If so, I would be very interested in applying. *(Expectations)*
+My name is \[name\] and I am a freshman \[subject\] major here at \[University\] *(Intro)*.
+I am interested in conducting undergraduate research in \[subject\], and recently came across your work with \[subfield/topic\]. I have some experience with this topic from \[past experience\] *(Relevant context)*.
+I was wondering if you would be looking to take on any undergraduate advisees in the near future. If so, I would be very interested in applying *(Expectations)*.
 
 I appreciate any information you may have to offer!
 
 Sincerely,
 \[Name\]
 
-While the above example has been written to generally illustrate the structure you are looking for, it is very important to remember that there is NO one-size-fits-all cold email. The relevant introduction, important context, and your expectations will change from email to email. Additionally, cultural context can very much change how a cold email ought to look. For example, in my experience, when I moved from the US to the Netherlands, I quickly found that I needed my emails to be much more direct and brief.
+While the above example has been written to generally illustrate the structure you are looking for, it is very important to remember that there is NO one-size-fits-all cold email. In reality, in the given context you may want to expand upon why a given subfield of reserach is of interest to you, and (if applicable), include a CV with relevant experience! The relevant introduction, important context, and your expectations will change from email to email. Additionally, cultural context can very much change how a cold email ought to look. For example, in my experience, when I moved from the US to the Netherlands, I quickly found that I needed my emails to be much more direct and brief.
 
 If you are hoping for a response and do not recieve one, the general rule of thumb that I use for follow-ups is to wait at least a week during the school year, or two weeks in the summer, and making sure to alter that timeframe for holidays! If you recieve an out-of-office message, wait the allotted timeframe *from the day the message says your recipient will return*. You do not want someone coming back from holiday to find that you have sent them a cold email AND a follow-up since they last checked their inbox! If you do not recieve a response from the follow up, that is often a sign to let the topic go (context dependent, of course!)
 
@@ -53,7 +53,7 @@ Additionally, it is nice to consider time changes and seasonal differences, if y
 
 ### A Few Notes on "Professionalism"
 
-When writing a cold email, many will say that it is important to "remain professional". While this is not bad advice, it often fails to account for how ideas of professionalism vary greatly amongst cultures, as well as from field to field, university to university, or even department to department. For example, astronomy, as a field, tends to be much more casual and places **somewhat** less value on stereotypical professionalism (YMMV). That is why, in contrast, I always prefer to stress showing *respect* in one's professional communications.
+When writing a cold email, many will say that it is important to "remain professional". While this is not bad advice, it often fails to account for how ideas of professionalism vary greatly amongst cultures, as well as from field to field, university to university, or even department to department. For example, astronomy, as a field, tends to be much more casual and places *somewhat* less value on stereotypical professionalism (YMMV). That is why, in contrast, I always prefer to stress showing *respect* in one's professional communications.
 
 For example, as a general rule of thumb (in the United States), it is considered respectful to refer to a person in the way they have asked you to. However, when contacting someone for the first time, you will not know this. I generally refer to people with their honorific and last name: Professor, Dr., Mr., Ms., Mrs., Mx., etc. My parents taught me to ALWAYS refer to a more senior person in this way, until they explicitly tell you otherwise, though now I more commonly use context clues, like one's email signature. This is admittedly a difficult thing to get a read of, but I am of the personal opinion that it is almost always better to err on the side of over-formality.
 
@@ -72,7 +72,7 @@ In general, I've found that young people (myself included) often tend to equate 
 - A well-written cold email is a very useful tool for navigating academia
 - An effective cold email is concise without being rude, and clear in its expectaions
   - When in doubt, think of Inigo Montoya
-- "Professionalism" is complicated, focus on being **RESPECTFUL**
+- "Professionalism" is complicated, focus on being *RESPECTFUL*
 - Earnesty goes a long way! Don't be afraid to show enthusiasm!
 
 
