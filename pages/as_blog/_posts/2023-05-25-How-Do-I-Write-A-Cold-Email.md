@@ -33,16 +33,16 @@ Another thing to note about the classic Inigo line is it's *brevity*. The people
 
 So, for example, if I were a first-year undergrad reaching out to a potential research advisor at my university, that may look something like this:
 
-**Dear \[honorific\] \[last name\],**
+Dear \[honorific\] \[last name\],
 
-**My name is \[name\] and I am a freshman \[subject\] major here at \[University\].** (Intro)
-**I am interested in conducting undergraduate research in \[subject\], and recently came across your work with \[subfield/topic\]. I have some experience with this topic from \[past experience\]** (Relevant context)
-**I was wondering if you would be looking to take on any undergraduate advisees in the near future. If so, I would be very interested in applying.** (Expectations)
+My name is \[name\] and I am a freshman \[subject\] major here at \[University\]. *(Intro)*
+I am interested in conducting undergraduate research in \[subject\], and recently came across your work with \[subfield/topic\]. I have some experience with this topic from \[past experience\] *(Relevant context)*
+I was wondering if you would be looking to take on any undergraduate advisees in the near future. If so, I would be very interested in applying. *(Expectations)*
 
-**Thank you for your time, and have a plesant day.**
+I appreciate any information you may have to offer!
 
-**Sincerely,**
-**\[Name\]**
+Sincerely,
+\[Name\]
 
 While the above example has been written to generally illustrate the structure you are looking for, it is very important to remember that there is NO one-size-fits-all cold email. The relevant introduction, important context, and your expectations will change from email to email. Additionally, cultural context can very much change how a cold email ought to look. For example, in my experience, when I moved from the US to the Netherlands, I quickly found that I needed my emails to be much more direct and brief.
 
@@ -64,13 +64,15 @@ That being said, though, in writing a cold email, it is important to look out fo
 
 People also have varied and strange opinions about email outtros. I've found that "Sincerely," is usually safe.
 
-#### In Conclusion:
+In general, I've found that young people (myself included) often tend to equate professionalism to dullness. While this works perfectly well for some, I've found my emails to be much more effective when I show enthusiasm for my work, and earnest gratitude when I am in need of help. Sometimes this means using the occasional exclamation point! As a PERSONAL rule, I like to represent myself accurately in my communications. I am deeply enthusiastic about the work I do, and I am okay with other people seeing that. It takes some getting used to, and you don't want to over-do it, but try to strike that balance, if you can!
+
+### In Conclusion:
 
 - A well-written cold email is a very useful tool for navigating academia
 - An effective cold email is concise without being rude, and clear in its expectaions
   - When in doubt, think of Inigo Montoya
 - "Professionalism" is complicated, focus on being **RESPECTFUL**
-- Earnesty goes a long way!
+- Earnesty goes a long way! Don't be afraid to show enthusiasm!
 
 
 Do you have any tips on writing a cold email? Things you think I missed? Things I said which you disagree with? Please consider using the github utterances extension to continue the conversation below!
