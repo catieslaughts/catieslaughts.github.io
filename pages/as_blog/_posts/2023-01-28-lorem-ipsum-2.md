@@ -1,6 +1,7 @@
 ---
 layout: as_post
 title: Test Post 2
+author: Catherine Slaughter
 tags: setup test
 ---
 
