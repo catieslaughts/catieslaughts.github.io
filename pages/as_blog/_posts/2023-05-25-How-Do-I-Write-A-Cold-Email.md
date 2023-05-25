@@ -34,16 +34,16 @@ Another thing to note about the classic Inigo line is it's *brevity*. The people
 
 So, for example, if I were a first-year undergrad reaching out to a potential research advisor at my university, that may look something like this:
 
-Dear \[honorific\] \[last name\],
-
-My name is \[name\] and I am a freshman \[subject\] major here at \[University\] *(Intro)*.
-I am interested in conducting undergraduate research in \[subject\], and recently came across your work with \[subfield/topic\]. I have some experience with this topic from \[past experience\] *(Relevant context)*.
-I was wondering if you would be looking to take on any undergraduate advisees in the near future. If so, I would be very interested in applying *(Expectations)*.
-
-I appreciate any information you may have to offer!
-
-Sincerely,
-\[Name\]
+> Dear \[honorific\] \[last name\],
+>
+> My name is \[name\] and I am a freshman \[subject\] major here at \[University\] *(Intro)*.
+> I am interested in conducting undergraduate research in \[subject\], and recently came across your work with \[subfield/topic\]. I have some experience with this topic from \[past experience\] *(Relevant context)*.
+> I was wondering if you would be looking to take on any undergraduate advisees in the near future. If so, I would be very interested in applying *(Expectations)*.
+>
+> I appreciate any information you may have to offer!
+>
+> Sincerely,  
+> \[Name\]
 
 While the above example has been written to generally illustrate the structure you are looking for, it is very important to remember that there is NO one-size-fits-all cold email. In reality, in the given context you may want to expand upon why a given subfield of reserach is of interest to you, and (if applicable), include a CV with relevant experience! The relevant introduction, important context, and your expectations will change from email to email. Additionally, cultural context can very much change how a cold email ought to look. For example, in my experience, when I moved from the US to the Netherlands, I quickly found that I needed my emails to be much more direct and brief.
 
