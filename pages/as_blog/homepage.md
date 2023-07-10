@@ -8,7 +8,7 @@ permalink: /academic_standing/
 
 ### What is the "hidden curriculum"?
 
-"This" my AP Literature teacher announced from the front of the classroom, "is exactly the sort of thing you're going to be expected to know next year, but may not have been taught to you." On the board, she projected a simple lesson, found online, titled _How to Write a Professional Email_. "It's called the hidden curriculum, ladies, and far too often, students are not given the benefit of the doubt when they don't know it." I was not always a diligent note-taker, but I remember writng down every word.
+"This" my AP Literature teacher announced from the front of the classroom, "is exactly the sort of thing you're going to be expected to know next year, but may not have been taught to you." On the board, she projected a simple lesson, found online, titled _How to Write a Professional Email_. "It's called the hidden curriculum, ladies, and far too often, students are not given the benefit of the doubt when they don't know it." I was not always a diligent note-taker, but I remember writing down every word.
 
 Of the many lessons I learned in AP Lit my senior year of high school, my teacher's words from that early autumn morning continue to stick out to me to this day. As someone who has often struggled, and sometimes continues to struggle, with unspoken social rules and expectations, I spend far too much of my time thinking about the hidden curriculum. 
 
