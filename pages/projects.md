@@ -7,13 +7,13 @@ permalink: /projects/
 **Some examples of significant written reports and poster presentations, both from coursework and paid research work.**
 <br>(Do you want to <a href='http://www.catherineslaughter.space/games/'>play a game</a>?)
 ### 2023
-- _**Disentangling the Shadows of a Planetary Collision**_
+- **_Disentangling the Shadows of a Planetary Collision_**
     - M.Sc. thesis
     - FULL REPORT TO BE POSTED AFTER A COLLABORATOR'S RELATED PUBLICATION IS ACCEPTED
     - Simulated planetesimal collision remnants in Python
     - Created model light curves for simulated remnant transit around distant stars
     - Fit model light curves to real data
-    <br><img src="https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/proj_imgs/thesiscover.png" width="60%">
+    <br><img src="https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/proj_imgs/thesisCover.png" width="30%">
 <br><br>
 
 - _Ultra-Hot Rocky Planets (Lava Worlds)_ (Spring 2023)[[Report]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/proj_reports/Lava_Worlds_Essay.pdf)
