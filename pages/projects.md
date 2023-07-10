@@ -6,6 +6,16 @@ permalink: /projects/
 # Significant Projects
 **Some examples of significant written reports and poster presentations, both from coursework and paid research work.**
 <br>(Do you want to <a href='http://www.catherineslaughter.space/games/'>play a game</a>?)
+### 2023
+- Ultra-Hot Rocky Planets (Spring 2023)[[Report]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/proj_reports/Lava_Worlds_Essay.pdf)
+    - Final group paper for Exoplanets: Interiors and Atmospheres
+    - Analyzes current literature about so-called Lava World-type planets, as well as discussing future pathways for further reserach and observation
+<br><br>
+
+- Modelling Sub-Neptunes with MESA (Spring 2023) [[Report]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/proj_reports/EIA_MESAlab.pdf)
+    - Project for Exoplanets: Interiors and Atmospheres
+    - Makes use of the Modules for Experiments in Stellar Astrophysics (MESA) 1-D evolution code
+
 ### 2022
 - SDSS Object Classification with Random Forest (Fall 2022) [[Report]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/proj_reports/IML_Assignment2.pdf) <a href="https://github.com/catieslaughts/IML_assignment2" target="_blank" >[Github]</a>
     - Project for Introduction to Machine Learning
@@ -43,6 +53,11 @@ permalink: /projects/
     - Presented as an iPoster at AAS 241
    <br><img src="../images_pdfs/proj_imgs/FYRP_iposter.jpg" width="60%">
 <br><br>
+
+- The Evolution of a 1.5M⊙ Star (Spring 2022) [[Report]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/proj_reports/Stellar_Structure_and_Evolution_Assignment.pdf)
+    - Project for Stellar Structure and Evolution
+    - Makes use of the Modules for Experiments in Stellar Astrophysics (MESA) 1-D evolution code
+ <br><br>
 
 - Quantum Wavepacket Tunneling Simulation (Spring 2022) <a href="https://github.com/catieslaughts/quantum_wavepacket_sim" target="_blank" >[Github]</a>
     - Project for Computational Physics
