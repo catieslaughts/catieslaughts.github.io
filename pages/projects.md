@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 # Significant Projects
-**Some examples of significant written reports and poster presentations, both from coursework and paid research work.**
+Some examples of significant written reports and poster presentations, both from coursework and paid research work.
 <br>(Do you want to <a href='http://www.catherineslaughter.space/games/'>play a game</a>?)
 ### 2023
 - **_Disentangling the Shadows of a Planetary Collision_**
