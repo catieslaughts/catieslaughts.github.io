@@ -21,16 +21,18 @@ Outside of school and research, I spend much of my free time reading, listening 
 ### Gallery:
 (Doesn't every astronomer have too many photos in front of various telescope domes?)
 
-<img src="../images_pdfs/photos/LeidenImage.jpg" width="48.5%"> 
-<img src="../images_pdfs/photos/KittpeakBack.jpg" width="48.5%">
+<img src="../images_pdfs/photos/hearthands" width="32%">
+<img src="../images_pdfs/photos/crabnebula" width="32%">
 <img src="../images_pdfs/photos/SterrewachtDome.JPG" width="32%">
-<img src="../images_pdfs/photos/SALTSelfie.JPG" width="32%"> 
-<img src="../images_pdfs/photos/CanadaMural.jpg" width="32%"> 
+
+<img src="../images_pdfs/photos/aas241poster" width="48.5%"> 
+<img src="../images_pdfs/photos/LeidenImage.jpg" width="48.5%"> 
+
 <img src="../images_pdfs/photos/GradPic.jpg" width="32%"> 
-<img src="../images_pdfs/photos/Moon.JPG" width="32%">
-<img src="../images_pdfs/photos/BoatTrip.jpg" width="32%"> 
+<img src="../images_pdfs/photos/SALTSelfie.JPG" width="32%"> 
 <img src="../images_pdfs/photos/KittpeakDome.jpg" width="32%"> 
-<img src="../images_pdfs/photos/SALTLarge.JPG" width="32%"> 
-<img src="../images_pdfs/photos/SterrewachtSign.jpg" width="32%">
+
+<img src="../images_pdfs/photos/KittpeakBack.jpg" width="48.5%">
+<img src="../images_pdfs/photos/PosterPres.JPG" width="48.5%">
 
 <!--For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).-->
