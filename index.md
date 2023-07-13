@@ -9,7 +9,7 @@ title: Home
 <p align="right"><font size="+1">
     <b>-Bill Nye</b>
 </font></p>
-test
+
 # Introduction
 
 My name is Catherine Slaughter, and I am an early-career astronomer whose [research interests](http://www.catherineslaughter.space/research/) are primarily in stellar astronomy, particularly where observational astrophysics can be supplemented by computational methods. I double-majored in Physics and Astronomy at Dartmouth College, where I conducted my culminating research project under Prof. Brian Chaboyer, receiving my Bachelor's in 2021. I have recently finished my M.Sc. in Astronomy Research at Leiden University in the Netherlands, where I my Master's thesis was advised by Prof. Matthew Kenworthy. I am currently pursuing a Ph.D. at the Minnesota Institute for Astrophysics. I have just begun studying stellar populations in nearby dwarf galaxies using HST (and, eventually, JWST) archival data under the supervision of Prof. Evan Skillman (University of Minnesota) and Prof. Dan Weisz (UC Berkeley). My dedication to research stems from a lifelong love of problem solving. I am happiest when I am fixing what's been previously broken, making better what's just ok, and creating solutions to problems that perhaps didn't exist before. This mindset informs the way I go through the world as a student, a researcher, and (most importantly) a person. Whether it is at a university, NASA, or with any number of other astrophysics research facilities worldwide, I would consider it an honor and a privilege to get to continue solving problems in astronomy as my life's work.
@@ -21,11 +21,11 @@ Outside of school and research, I spend much of my free time reading, listening 
 ### Gallery:
 (Doesn't every astronomer have too many photos in front of various telescope domes?)
 
-<img src="../images_pdfs/photos/hearthands" width="32%">
-<img src="../images_pdfs/photos/crabnebula" width="32%">
+<img src="../images_pdfs/photos/hearthands.jpg" width="32%">
+<img src="../images_pdfs/photos/crabnebula.jpg" width="32%">
 <img src="../images_pdfs/photos/SterrewachtDome.JPG" width="32%">
 
-<img src="../images_pdfs/photos/aas241poster" width="48.5%"> 
+<img src="../images_pdfs/photos/aas241poster.jpg" width="48.5%"> 
 <img src="../images_pdfs/photos/LeidenImage.jpg" width="48.5%"> 
 
 <img src="../images_pdfs/photos/GradPic.jpg" width="32%"> 
