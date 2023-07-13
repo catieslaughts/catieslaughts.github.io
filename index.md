@@ -22,16 +22,13 @@ Outside of school and research, I spend much of my free time reading, listening 
 (Doesn't every astronomer have too many photos in front of various telescope domes?)
 
 <img src="../images_pdfs/photos/hearthands.jpg" width="32%">
-<img src="../images_pdfs/photos/crabnebula.jpg" width="32%">
 <img src="../images_pdfs/photos/SterrewachtDome.JPG" width="32%">
-
+<img src="../images_pdfs/photos/crabnebula.jpg" width="32%">
 <img src="../images_pdfs/photos/aas241poster.jpg" width="48.5%"> 
 <img src="../images_pdfs/photos/LeidenImage.jpg" width="48.5%"> 
-
 <img src="../images_pdfs/photos/GradPic.jpg" width="32%"> 
 <img src="../images_pdfs/photos/SALTSelfie.JPG" width="32%"> 
 <img src="../images_pdfs/photos/KittpeakDome.jpg" width="32%"> 
-
 <img src="../images_pdfs/photos/KittpeakBack.jpg" width="48.5%">
 <img src="../images_pdfs/photos/PosterPres.JPG" width="48.5%">
 
