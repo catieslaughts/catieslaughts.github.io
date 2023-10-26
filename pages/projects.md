@@ -12,7 +12,7 @@ Some examples of significant written reports and poster presentations, both from
     - Simulated planetesimal collision remnants in Python
     - Created model light curves for simulated remnant transit around distant stars
     - Fit model light curves to real data
-    <br><img src="https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/proj_imgs/thesisCover.png" width="30%">
+    <br><img src="https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/proj_imgs/alderaan.gif" width="60%"><img src="https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/proj_imgs/thesisCover.png" width="30%">
 <br><br>
 
 - _Ultra-Hot Rocky Planets (Lava Worlds)_ (Spring 2023)[[Report]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/proj_reports/Lava_Worlds_Essay.pdf)
