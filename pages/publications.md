@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 # Publications & Posters
-(Also available as a [.bib]() file)
+(Also available as a [.bib](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/CV/slaughterpubs.bib) file)
 
 _The Absolute Age of M92_
 Ying, J. M., Chaboyer, B., Boudreaux, E. M., et al. 2023, AJ, 166, 18, doi: [10.3847/1538-3881/acd9b1](https://iopscience.iop.org/article/10.3847/1538-3881/acd9b1)
