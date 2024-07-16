@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-
+<html>
 <div id="quoteDisplay">
   <!-- Quotes will display here -->
 </div>
@@ -10,6 +10,8 @@ title: Home
 <script type="text/javascript" src="ron.js"></script>
 
 <body onload="newQuote()">
+</body>
+</html>
 
 # Introduction
 
