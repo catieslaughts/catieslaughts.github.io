@@ -2,8 +2,18 @@
 layout: default
 title: Home
 ---
+<head> 
+  <script src="jquery.js"></script> 
+  <script> 
+    $(function(){
+      $("#includedContent").load("b.html"); 
+    });
+  </script>
+</head>
 
-<link href="quotes/billnye.html" rel="import" />
+<body> 
+  <div id="includedContent"></div>
+</body>
 
 # Introduction
 
