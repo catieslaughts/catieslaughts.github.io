@@ -8,9 +8,9 @@ title: Home
 <body onload="newQuote()">
 </body>
   
-<div id="quoteDisplay">
+<p id="quoteDisplay">
   <!-- Quotes will display here -->
-</div>
+</p>
 </html>
 
 # Introduction
