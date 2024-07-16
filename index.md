@@ -4,13 +4,14 @@ title: Home
 ---
 <!--<object type="text/html" data="quotes/billnye.html" ></object>-->
 <p id="quoteDisplay">
-  <link rel="stylesheet" href="style.css"/>
+  
 </p>
 
 <body onload="newQuote()"></body>
 <!--<p align="center"><font size="+1"><b>"When we explore the cosmos, we come to believe and prove that we can solve problems that have never been solved. It brings out the best in us."</b></font></p><p align="right"><font size="+1"><b>-Bill Nye</b></font></p>-->
 
 # Introduction
+test
 
 Catherine Slaughter is an early-career astronomer and PhD Candidate at the Minnesota Institute for astrophysics. Her [research interests](http://www.catherineslaughter.space/research/) are primarily in stellar and planetary astronomy, with particular focus on the long-term co-evolutions of stellar populations, individual stars, and planetary systems. Her current project--co-advised by Prof. Evan Skillman at UMN and Prof. Dan Weisz at UC Berkeley--is a study of RR Lyrae populations in several nearby dwarf galaxies, with particular emphasis on a comparative analysis of existing time-series observations from JWST and HST.
 
