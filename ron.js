@@ -1,6 +1,6 @@
-var quotes = ["quote 1", "quote 2", "quote 3"];
+var quotes = ["quotes/billnye.html"];
 
 function newQuote() {
   var randomNumber = Math.floor(Math.random() * (quotes.length));
-  document.getElementById('quoteDisplay').innerHTML = '<object type="text/html" data="quotes/billnye.html" ></object>';
+  document.getElementById('quoteDisplay').innerHTML = '<object type="text/html" data=quotes[randomNumber] ></object>';
 }
