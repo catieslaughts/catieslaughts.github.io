@@ -3,6 +3,7 @@ layout: default
 title: Home
 ---
 
+<link href="quotes/billnye.html" rel="import" />
 
 # Introduction
 
