@@ -3,11 +3,15 @@ layout: default
 title: Home
 ---
 <!--<object type="text/html" data="quotes/billnye.html" ></object>-->
-<span id="quoteDisplay">
-  
-</span>
-
-<body onload="newQuote()"></body>
+<html>
+  <head>
+    <script type="text/javascript" src="ron.js"></script>
+    <link href='https://fonts.googleapis.com/css?family=Poiret+One' rel='stylesheet' type='text/css'>
+    <p id="quoteDisplay">
+    </p>
+    <body onload="newQuote()"></body>
+  </head>
+</html>
 <!--<p align="center"><font size="+1"><b>"When we explore the cosmos, we come to believe and prove that we can solve problems that have never been solved. It brings out the best in us."</b></font></p><p align="right"><font size="+1"><b>-Bill Nye</b></font></p>-->
 
 # Introduction
@@ -24,8 +28,6 @@ She is passionate about [public outreach](http://www.catherineslaughter.space/ou
 
 Outside of work, she spends much of her free time reading, listening to or playing music (usually ukulele), weightlifting, and playing fastpitch softball. She is also a HUGE Chicago Cubs baseball fan (this season notwithstanding). During her time in New Hampshire, she developed a love for hiking, kayaking and (of course) climbing, and would love to thru-hike the Appalacian Trail some day.
 
-
-<script type="text/javascript" src="ron.js"></script>
 <!--### Gallery:
 (Doesn't every astronomer have too many photos in front of various telescope domes?)
 
