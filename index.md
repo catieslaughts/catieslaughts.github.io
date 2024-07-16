@@ -4,7 +4,7 @@ title: Home
 ---
 <!--<object type="text/html" data="quotes/billnye.html" ></object>-->
 <html>
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="jekyll-theme-minimal.scss">
 <p id="quoteDisplay">
   
 </p>
