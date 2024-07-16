@@ -7,9 +7,6 @@ title: Home
   <!-- Quotes will display here -->
 </div>
 
-  <!-- Center is added for button placement -->
-  <button onclick="newQuote()">New Quote</button>
-
 <script type="text/javascript" src="ron.js"></script>
 
 <body onload="newQuote()">
