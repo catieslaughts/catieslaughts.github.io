@@ -14,7 +14,7 @@ title: Home
 
 # Introduction
 
-ahhh
+kufyiuyv
 
 Catherine Slaughter is an early-career astronomer and PhD Candidate at the Minnesota Institute for astrophysics. Her [research interests](http://www.catherineslaughter.space/research/) are primarily in stellar and planetary astronomy, with particular focus on the long-term co-evolutions of stellar populations, individual stars, and planetary systems. Her current project--co-advised by Prof. Evan Skillman at UMN and Prof. Dan Weisz at UC Berkeley--is a study of RR Lyrae populations in several nearby dwarf galaxies, with particular emphasis on a comparative analysis of existing time-series observations from JWST and HST.
 
