@@ -1,5 +1,5 @@
 ---
-layout: defaultcopy
+layout: default
 title: Home
 ---
 
