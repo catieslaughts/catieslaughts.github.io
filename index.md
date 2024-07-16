@@ -2,18 +2,17 @@
 layout: default
 title: Home
 ---
-<head> 
-  <script src="jquery.js"></script> 
-  <script> 
-    $(function(){
-      $("#includedContent").load("b.html"); 
-    });
-  </script>
-</head>
 
-<body> 
-  <div id="includedContent"></div>
-</body>
+<div id="quoteDisplay">
+  <!-- Quotes will display here -->
+</div>
+
+  <!-- Center is added for button placement -->
+  <button onclick="newQuote()">New Quote</button>
+
+<script type="text/javascript" src="ron.js"></script>
+
+<body onload="newQuote()">
 
 # Introduction
 
