@@ -2,13 +2,12 @@
 layout: default
 title: Home
 ---
+<!--<object type="text/html" data="quotes/billnye.html" ></object>-->
 <div id="quoteDisplay">
-    <object type="text/html" data="quotes/billnye.html" ></object>
     <!-- Quotes will display here -->
 </div>
   
-<!--<body onload="newQuote()">
-</body>-->
+<body onload="newQuote()"></body>
 
 # Introduction
 
