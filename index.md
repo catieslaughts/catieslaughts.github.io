@@ -12,13 +12,17 @@ title: Home
 
 # Introduction
 
-My name is Catherine Slaughter, and I am an early-career astronomer whose [research interests](http://www.catherineslaughter.space/research/) are primarily in stellar astronomy, particularly where observational astrophysics can be supplemented by computational methods. I double-majored in Physics and Astronomy at Dartmouth College, where I conducted my culminating research project under Prof. Brian Chaboyer, receiving my Bachelor's in 2021. I have recently finished my M.Sc. in Astronomy Research at Leiden University in the Netherlands, where I my Master's thesis was advised by Prof. Matthew Kenworthy. I am currently pursuing a Ph.D. at the Minnesota Institute for Astrophysics. I have just begun studying stellar populations in nearby dwarf galaxies using HST (and, eventually, JWST) archival data under the supervision of Prof. Evan Skillman (University of Minnesota) and Prof. Dan Weisz (UC Berkeley). My dedication to research stems from a lifelong love of problem solving. I am happiest when I am fixing what's been previously broken, making better what's just ok, and creating solutions to problems that perhaps didn't exist before. This mindset informs the way I go through the world as a student, a researcher, and (most importantly) a person. Whether it is at a university, NASA, or with any number of other astrophysics research facilities worldwide, I would consider it an honor and a privilege to get to continue solving problems in astronomy as my life's work.
+Catherine Slaughter is an early-career astronomer and PhD Candidate at the Minnesota Institute for astrophysics. Her [research interests](http://www.catherineslaughter.space/research/) are primarily in stellar and planetary astronomy, with particular focus on the long-term co-evolutions of stellar populations, individual stars, and planetary systems. Her current project--co-advised by Prof. Evan Skillman at UMN and Prof. Dan Weisz at UC Berkeley--is a study of RR Lyrae populations in several nearby dwarf galaxies, with particular emphasis on a comparative analysis of existing time-series observations from JWST and HST.
 
-I am passionate about [public outreach](http://www.catherineslaughter.space/outreach/) in STEM and believe that encouraging people to engage with science is an absolutely critical part of being a scientist. I love teaching, and take any opportunity I can to work as a tutor, a TA, or a public lecturer. I believe in affirmative inclusivity in the sciences, and am always trying to work on my own personal growth and for institutional change. 
+Prior to her time at the University of Minnesota, she recieved her B.A. in Physics and Astronomy from Dartmouth College in 2021, having worked under Prof. Brian Chaboyer, and her M.Sc. From Leiden University in 2023, conducting projects with Prof. Xander Tielens and Prof. Matthew Kenworthy. 
 
-Outside of school and research, I spend much of my free time reading, listening to or playing music (usually ukulele), weightlifting, and playing fastpitch softball. I am a HUGE Chicago Cubs baseball fan (this season notwithstanding). Back in New Hampshire, I developed a love for hiking, kayaking and (of course) climbing, and I would love to thru-hike the Appalacian Trail some day.
+Her dedication to research stems from a lifelong love of and dedication to problem solving. This mindset informs the way she goes through the world as a student, a researcher, and (most importantly) a person--there is little in life that can't be tackled with good-faith effort and a little bit of luck. She considers it an honor and a privilege to continue to solve problems in astronomy.
 
-### Gallery:
+She is passionate about [public outreach](http://www.catherineslaughter.space/outreach/) in STEM and believes that encouraging people to engage with science is an absolutely critical part of being a scientist. She believes in affirmative inclusivity in the sciences, and is always looking to work on personal growth and for institutional change. 
+
+Outside of school and research, she spends much of my free time reading, listening to or playing music (usually ukulele), weightlifting, and playing fastpitch softball. She is also a HUGE Chicago Cubs baseball fan (this season notwithstanding). During her time in New Hampshire, she developed a love for hiking, kayaking and (of course) climbing, and would love to thru-hike the Appalacian Trail some day.
+
+<!--### Gallery:
 (Doesn't every astronomer have too many photos in front of various telescope domes?)
 
 <img src="../images_pdfs/photos/hearthands.jpg" width="32%">
@@ -30,6 +34,6 @@ Outside of school and research, I spend much of my free time reading, listening 
 <img src="../images_pdfs/photos/SALTSelfie.JPG" width="32%"> 
 <img src="../images_pdfs/photos/KittpeakDome.jpg" width="32%"> 
 <img src="../images_pdfs/photos/KittpeakBack.jpg" width="48.5%">
-<img src="../images_pdfs/photos/PosterPres.JPG" width="48.5%">
+<img src="../images_pdfs/photos/PosterPres.JPG" width="48.5%">-->
 
 <!--For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).-->
