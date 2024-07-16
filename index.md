@@ -23,6 +23,8 @@ She is passionate about [public outreach](http://www.catherineslaughter.space/ou
 
 Outside of work, she spends much of her free time reading, listening to or playing music (usually ukulele), weightlifting, and playing fastpitch softball. She is also a HUGE Chicago Cubs baseball fan (this season notwithstanding). During her time in New Hampshire, she developed a love for hiking, kayaking and (of course) climbing, and would love to thru-hike the Appalacian Trail some day.
 
+
+<script type="text/javascript" src="ron.js"></script>
 <!--### Gallery:
 (Doesn't every astronomer have too many photos in front of various telescope domes?)
 
