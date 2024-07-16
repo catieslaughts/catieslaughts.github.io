@@ -9,10 +9,6 @@ title: Home
   
   <script type="text/javascript" src="ron.js"></script>
   
-  <body onload="newQuote()">
-    
-  </body>
-  
   </html>
 
 # Introduction
