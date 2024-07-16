@@ -12,7 +12,7 @@ title: Home
 
 # Introduction
 
-Catherine Slaughter is an early-career astronomer and PhD Candidate at the Minnesota Institute for astrophysics. Her [research interests](http://www.catherineslaughter.space/research/) are primarily in stellar and planetary astronomy, with particular focus on the long-term co-evolutions of stellar populations, individual stars, and planetary systems. Her current project--co-advised by Prof. Evan Skillman at UMN and Prof. Dan Weisz at UC Berkeley--is a study of RR Lyrae populations in several nearby dwarf galaxies, with particular emphasis on a comparative analysis of existing time-series observations from JWST and HST.
+Catherine Slaughter is an early-career astronomer, PhD Candidate at the Minnesota Institute for astrophysics, and [Astrobites](https://astrobites.org/) daily summary author. Her [research interests](http://www.catherineslaughter.space/research/) are primarily in stellar and planetary astronomy, with particular focus on the long-term co-evolutions of stellar populations, individual stars, and planetary systems. Her current project--co-advised by Prof. Evan Skillman at UMN and Prof. Dan Weisz at UC Berkeley--is a study of RR Lyrae populations in several nearby dwarf galaxies, with particular emphasis on a comparative analysis of existing time-series observations from JWST and HST.
 
 Prior to her time at the University of Minnesota, she recieved her B.A. in Physics and Astronomy from Dartmouth College in 2021, having worked under Prof. Brian Chaboyer, and her M.Sc. From Leiden University in 2023, conducting projects with Prof. Xander Tielens and Prof. Matthew Kenworthy. 
 
@@ -20,7 +20,7 @@ Her dedication to research stems from a lifelong love of and dedication to probl
 
 She is passionate about [public outreach](http://www.catherineslaughter.space/outreach/) in STEM and believes that encouraging people to engage with science is an absolutely critical part of being a scientist. She believes in affirmative inclusivity in the sciences, and is always looking to work on personal growth and for institutional change. 
 
-Outside of school and research, she spends much of my free time reading, listening to or playing music (usually ukulele), weightlifting, and playing fastpitch softball. She is also a HUGE Chicago Cubs baseball fan (this season notwithstanding). During her time in New Hampshire, she developed a love for hiking, kayaking and (of course) climbing, and would love to thru-hike the Appalacian Trail some day.
+Outside of school and research, she spends much of her free time reading, listening to or playing music (usually ukulele), weightlifting, and playing fastpitch softball. She is also a HUGE Chicago Cubs baseball fan (this season notwithstanding). During her time in New Hampshire, she developed a love for hiking, kayaking and (of course) climbing, and would love to thru-hike the Appalacian Trail some day.
 
 <!--### Gallery:
 (Doesn't every astronomer have too many photos in front of various telescope domes?)
