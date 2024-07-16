@@ -3,9 +3,9 @@ layout: default
 title: Home
 ---
 <!--<object type="text/html" data="quotes/billnye.html" ></object>-->
-<div id="quoteDisplay">
+<p id="quoteDisplay">
     <!-- Quotes will display here -->
-</div>
+</p>
   
 <body onload="newQuote()"></body>
 
