@@ -3,16 +3,17 @@ layout: default
 title: Home
 ---
 <html>
-<div id="quoteDisplay">
-  <!-- Quotes will display here -->
-</div>
+  <div id="quoteDisplay">
+    <!-- Quotes will display here -->
+  </div>
   
-<script type="text/javascript" src="ron.js"></script>
-
-<body onload="newQuote()">
-</body>
+  <script type="text/javascript" src="ron.js"></script>
   
-</html>
+  <body onload="newQuote()">
+    
+  </body>
+  
+  </html>
 
 # Introduction
 
