@@ -3,7 +3,7 @@ layout: defaultcopy
 title: Home
 ---
 
-TEST
+TEST2
 
 <p align="center"><font size="+1">
     <b>"When we explore the cosmos, we come to believe and prove that we can solve problems that have never been solved. It brings out the best in us."</b>
