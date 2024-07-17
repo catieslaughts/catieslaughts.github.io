@@ -8,7 +8,7 @@ function newQuote() {
   fr.onload = function(e) {
     // e.target.result should contain the text
   };
-  fr.readAsText(file);
+  fr.readAsText("quotes/billnye_oneline.txt");
   
   var quote = e.target.result
   
