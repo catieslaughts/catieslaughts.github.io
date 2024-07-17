@@ -1,4 +1,4 @@
-var quotes = ["quotes/billnye_oneline.html"];
+var quotes = ["quotes/billnye_oneline.html", "quotes/test.html"];
 
 function newQuote() {
   var randomNumber = Math.floor(Math.random() * (quotes.length));
