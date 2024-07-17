@@ -4,15 +4,9 @@ title: Curriculum Vitae
 permalink: /cv/
 ---
 
-<html>
-  <head>
-    <script src="https://kit.fontawesome.com/cfa6dcd6c0.js"></script>
-  </head>
-</html>
-
 # Curriculum Vitae
 <font size="-1">(Updated 17 July, 2024)</font>
-<a href = https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/CV/WebsiteCV.pdf>[Download as PDF] </a>
+[Download as PDF](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/CV/WebsiteCV.pdf)
 
 <p style = "padding : 0; margin : 0;" align="center">
   <br><img src="../images_pdfs/CV/WebsiteCV_pg1.jpg" width="80%">
