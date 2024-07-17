@@ -5,11 +5,15 @@ permalink: /cv/
 ---
 
 # Curriculum Vitae
-<font size="-1">(Updated 17 July, 2024)</font>
-[Download as PDF](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/CV/WebsiteCV.pdf)
+<p style = "padding : 0; margin : 0;">
+  <font size="-1">(Updated 17 July, 2024)</font>
+</p>
+<br>
 
+<p style = "padding : 0; margin : 0;">
+  <a href="https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/CV/WebsiteCV.pdf">test</a>
+</p>
 <p style = "padding : 0; margin : 0;" align="center">
-  <a href="https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/CV/WebsiteCV.pdf"> test </a>
   <br><img src="../images_pdfs/CV/WebsiteCV_pg1.jpg" width="80%">
   <br><img src="../images_pdfs/CV/WebsiteCV_pg2.jpg" width="80%">
   <br><img src="../images_pdfs/CV/WebsiteCV_pg3.jpg" width="80%">
