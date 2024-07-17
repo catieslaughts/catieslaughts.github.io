@@ -6,8 +6,17 @@ permalink: /projects/
 # Significant Projects
 Some examples of significant written reports and poster presentations, both from coursework and paid research work.
 <br>(Do you want to <a href='http://www.catherineslaughter.space/games/'>play a game</a>?)
+### 2024
+-_Calibrating the Extragalactic RR Lyrae Population with HST and JWST ERS_ <a href="https://aas244-aas.ipostersessions.com/Default.aspx?s=B2-1B-9B-FE-68-5F-18-6B-B0-D9-BC-28-2E-DB-8B-10" target="_blank" >[iPoster]</a>
+    - Pre-thesis research project
+    - Uses overlapping observations from the Hubble and James Webb Space Telescopes to find and analyze periodicity of RR Lyrae stars in nearby dwarf galaxies
+    - Implemented and adapted existing MCMC template-fitting code for varying needs of different observation filters
+    - Papers forthcoming
+    - Preliminary results for galaxy WLM presented at AAS 244 summer meeting in Madison, WI
+    <br><img src="../images_pdfs/proj_imgs/RRLyrae_iposter.jpg" width="60%">
+    
 ### 2023
-- **_Disentangling the Shadows of a Planetary Collision_** [[Thesis]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/proj_reports/Slaughter_MasterThesis.pdf)
+- _Disentangling the Shadows of a Planetary Collision_ [[Thesis]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/proj_reports/Slaughter_MasterThesis.pdf)
     - M.Sc. thesis
     - Simulated planetesimal collision remnants in Python
     - Created model light curves for simulated remnant transit around distant stars
