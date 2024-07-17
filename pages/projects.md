@@ -4,8 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 # Significant Projects
-Some examples of significant written reports and poster presentations, both from coursework and paid research work.
-<br>(Do you want to <a href='http://www.catherineslaughter.space/games/'>play a game</a>?)
+(Do you want to <a href='http://www.catherineslaughter.space/games/'>play a game</a>?)
 ### 2024
 - _Calibrating the Extragalactic RR Lyrae Population with HST and JWST ERS_ <a href="https://aas244-aas.ipostersessions.com/Default.aspx?s=B2-1B-9B-FE-68-5F-18-6B-B0-D9-BC-28-2E-DB-8B-10" target="_blank" >[iPoster]</a>
     - Pre-thesis research project
