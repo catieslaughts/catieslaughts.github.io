@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 # Publications & Posters
-(Also available as a <a href="[https://www.linkedin.com/in/catherineslaughter](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/CV/slaughterpubs.bib)" target="_blank">.bib</a> file)
+(Also available as a <a href="https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/CV/slaughterpubs.bib" target="_blank">.bib</a> file)
 
 _Calibrating the RR Lyrae Population in WLM with HST and JWST ERS_
 Slaughter, C., et al. 2024, in American Astronomical Society Meeting Abstracts, Vol. 244, American Astronomical Society Meeting Abstracts, 101.09 [Abstract](https://ui.adsabs.harvard.edu/abs/2024AAS...24410109S/abstract)
