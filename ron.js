@@ -21,11 +21,11 @@ var quotes = [
   '<p align="center"><font size="+1"><b>"Read books. Care about things. Get excited. Try not to be too down on yourself. Enjoy the ever present game of knowing."</b></font></p><p align="right"><font size="+1"><b>-Hank Green</b></font></p>',
   '<p align="center"><font size="+1"><b>"I find it useful to have a list of thoughts that might go somewhere. I don\'t know where they\'re going, and no, you can\'t see it."</b></font></p><p align="right"><font size="+1"><b>-Hank Green</b></font></p>',
   '<p align="center"><font size="+1"><b>"The test will last your entire life, and it will be comprised of the millions of decisions that, when taken together, will make your life yours. And everything, everything, will be on it."</b></font></p><p align="right"><font size="+1"><b>-John Green</b></font></p>',
-  '<p align="center"><font size="+1"><b>"In the grand scheme of things, maybe nothing will matter, but we don\'t live in the grand scheme of things--we live here in the day-to-day"</b></font></p><p align="right"><font size="+1"><b>-John Green</b></font></p>',
+  '<p align="center"><font size="+1"><b>"In the grand scheme of things, maybe nothing will matter, but we don\'t live in the grand scheme of things — we live here in the day-to-day"</b></font></p><p align="right"><font size="+1"><b>-John Green</b></font></p>',
   '<p align="center"><font size="+1"><b>"Everyone you will ever meet knows something you don’t."</b></font></p><p align="right"><font size="+1"><b>-Bill Nye</b></font></p>',
   '<p align="center"><font size="+1"><b>"Science rules!"</b></font></p><p align="right"><font size="+1"><b>-Bill Nye</b></font></p>',
   '<p align="center"><font size="+1"><b>"To leave the world better than you found it, sometimes you have to pick up other people’s trash."</b></font></p><p align="right"><font size="+1"><b>-Bill Nye</b></font></p>',
-  '<p align="center"><font size="+1"><b>"You and I are made of stardust. We are the stuff of exploded stars. We are therefore, at least 1 way that the Universe knows itself. That, to me, is astonishing."</b></font></p><p align="right"><font size="+1"><b>-Bill Nye</b></font></p>',
+  '<p align="center"><font size="+1"><b>"You and I are made of stardust. We are the stuff of exploded stars. We are therefore, at least one way that the Universe knows itself. That, to me, is astonishing."</b></font></p><p align="right"><font size="+1"><b>-Bill Nye</b></font></p>',
   '<p align="center"><font size="+1"><b>"Science is the key to our future, and if you don’t believe in science, then you’re holding everybody back."</b></font></p><p align="right"><font size="+1"><b>-Bill Nye</b></font></p>',
 ];
 
