@@ -61,7 +61,7 @@ permalink: /projects/
         - Ensemble Learning via AdaBoost algorithm
 <br><br>
 
-- _**Nebular Chewing Gum: A Modeled Radiation Field Search for Bubble Structures in the Greater Orion Nebula Region**_ (School Year 2021-2022) [[Report]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/proj_reports/Slaughter_FirstYearProject_final.pdf) <a href="https://aas241-aas.ipostersessions.com/Default.aspx?s=41-6C-57-15-82-B4-37-FF-FD-3B-41-29-E1-FD-C6-82" target="_blank" >[iPoster]</a>
+- _Nebular Chewing Gum: A Modeled Radiation Field Search for Bubble Structures in the Greater Orion Nebula Region_ (School Year 2021-2022) [[Report]](https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/proj_reports/Slaughter_FirstYearProject_final.pdf) <a href="https://aas241-aas.ipostersessions.com/Default.aspx?s=41-6C-57-15-82-B4-37-FF-FD-3B-41-29-E1-FD-C6-82" target="_blank" >[iPoster]</a>
     - First-year MSc research project
     - Used modeled radiation field code to identify regions of the Greater Orion Nebula where radiative input is not dominated by the Trapezium
     - Studied equivalent regions in Herschel 70/160 micron and SOFIA CII data
