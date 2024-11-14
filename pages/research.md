@@ -5,13 +5,12 @@ permalink: /research/
 ---
 
 # Research
-Descriptions of current research projects and ongoing research interests.
-<br>An extended list of past projects can be found on my <a href="http://www.catherineslaughter.space/projects/">projects</a> page.
+An extended list of past projects can be found on my <a href="http://www.catherineslaughter.space/projects/">projects</a> page.
 
 ## Interests
 My research interests are primarily in "weird" stars and stellar systems. This includes (but is far from limited to) complex orbital physics, system (planetary and/or multistellar) co-evolution, variable stars, very metal poor stars, late-stage evolutionary phases, stars in dense environments etc. For this, I am most drawn to the particular types of analyses that can be conducted on large stellar populations, as opposed to individual stars.
 
-I am interested in observational astronomy with computational applications. This includes using new algorithmic methods to better analyze observational data, modeling systems for comparison with observations, etc. I think advanced computational methods are key to managing the enormous data sets that have defined and will continue to define astrophysics in the twenty-first century. I am very interested in incorporating machine learning techniques into my work, and am a staunch advocate for open-source research software, as well as responsible software development and testing within scientific communities.
+I am interested in combining observational astronomy with computational applications. This includes using new algorithmic methods to better analyze observational data, modeling systems for comparison with observations, etc. I think advanced computational methods are key to managing the enormous data sets that have defined and will continue to define astrophysics in the twenty-first century. I am very interested in incorporating machine learning techniques into my work, and am a staunch advocate for open-source research software, as well as responsible software development and testing within scientific communities.
 
 ## Pre-Thesis Ph.D. Research
 My current research project--co-advised by Evan Skillman at UMN and Dan Weisz at UC Berkeley--analyzes resolved metal-poor stellar populations in nearby dwarf galaxies using both HST and JWST observations. In particular, I am working to create catalogs of RR Lyrae variable stars. These populations are used to obtain a variety of astrophysical information, from Gaia-consistent distance measurements to star formation histories. Additionally, overlapping observations in HST and JWST allow us to directly compare what a given source looks like in both, allowing us to establish guidelines for future JWST studies of stellar populations in galaxies that have not previously been resolvable by HST.
