@@ -26,6 +26,6 @@ A penpal and school outreach program! "Making STEM opportunities more visible, v
 A summertime program along the Appalacian Trail in Maine and New Hampshire. Undergraduates work as <a href='https://www.mountainsofstars.org/' target='_blank'> astronomy and nature guides</a>, connecting people to environmental issues through a common human interest in the stars. 
 
 ## For Educators:
-Are you an educator covering physics and/or astronomy and looking for a classroom visit? I'm no Bill Nye, but I love chatting with young people about space, science, and their possible futures in both! Feel free to look up my name on <a href='https://www.skypeascientist.com/' target='_blank'> Skype a Scientist</a>. If I'm out of sessions for the year, consider sending me an email. We can do our best to work something out!
+Are you an educator covering physics and/or astronomy and looking for a classroom visit? I'm no Bill Nye, but I love chatting with young people about space, science, and their possible futures in both!
 
 Looking to start your students in the sciences? May I reccomend <a href='https://scratch.mit.edu/' target='_blank'>Scratch</a>? This applet, originally created at MIT, was my first introduction to coding, and I still love to play around with it today! Check out some of my old <a href='http://www.catherineslaughter.space/games/'>games</a> here!
