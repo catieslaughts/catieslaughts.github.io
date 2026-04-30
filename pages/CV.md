@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 <!--<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">-->
 <p style = "padding : 0; margin : 0;" align="right">
-  <font size="-3">(Updated 17 July, 2024)</font>
+  <font size="-3">(Updated 30 April, 2026)</font>
 </p>
 
 # Curriculum Vitae
