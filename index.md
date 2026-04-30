@@ -18,7 +18,7 @@ title: Home
 
 Catherine Slaughter is an early-career astronomer and PhD Candidate at the Minnesota Institute for Astrophysics. Her [research interests](http://www.catherineslaughter.space/research/) are primarily in stellar astronomy, with particular focus on post-main sequence star populations (especially variable stars), and populations of stars in unique environments (like globular culsters). Her current project—co-advised by Prof. Evan Skillman at UMN and Prof. Dan Weisz at UC Berkeley—is a study of RR Lyrae populations in several nearby dwarf galaxies using JWST and HST.
 
-Along with her research work, she dedicates herself to the greater astrophysics community through her roles as an [Astrobites](https://astrobites.org/) daily summary author, an organizing committee member for [Virtual Astronomy Software Talks](https://vastseminars.github.io/), and assistant on several light pollution monitoring studies associated with [Dark Sky International](https://darksky.org/).
+Along with her research work, she dedicates herself to the greater astrophysics community through her roles as an [Astrobites](https://astrobites.org/) author, and an organizing committee member for [Virtual Astronomy Software Talks](https://vastseminars.github.io/).
 
 <!--Prior to her time at the University of Minnesota, she recieved her B.A. in Physics and Astronomy from Dartmouth College in 2021, having worked under Prof. Brian Chaboyer, and her M.Sc. From Leiden University in 2023, conducting projects with Prof. Xander Tielens and Prof. Matthew Kenworthy. -->
 
@@ -26,7 +26,7 @@ Her dedication to research stems from a lifelong love of and dedication to probl
 
 She is passionate about [public outreach](http://www.catherineslaughter.space/outreach/) in STEM and believes that encouraging people to engage with science is an absolutely critical part of being a scientist. She believes in affirmative inclusivity in the sciences, and is always looking to work on personal growth and for institutional change. 
 
-Outside of work, she spends much of her free time reading, listening to or playing music (usually ukulele), weightlifting, and playing fastpitch softball. She is also a HUGE Chicago Cubs baseball fan (this season notwithstanding). During her time in New Hampshire, she developed a love for hiking, kayaking and (of course) climbing, and would love to thru-hike the Appalacian Trail some day.
+Outside of work, she spends much of her free time rock climbing, reading, listening to or playing music, weightlifting, and hiking. She is also a proud Chicago Cubs baseball fan. During her time in New Hampshire, she developed a love for hiking, kayaking and (of course) climbing, and would love to thru-hike the Appalacian Trail some day.
 
 <!--### Gallery:
 (Doesn't every astronomer have too many photos in front of various telescope domes?)
