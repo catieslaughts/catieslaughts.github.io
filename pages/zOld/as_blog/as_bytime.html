@@ -1,0 +1,38 @@
+---
+layout: default
+title: Academic Standing
+permalink: /as_time/
+---
+
+<style>
+ul.no-bullets {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+h2.no-margin{
+  margin:0;
+}
+h1.blue{
+  margin: 0;
+  padding: 0;
+  line-height: 0.1em;
+  color:#001273;
+}
+</style>
+
+<a style='text-align:right; display:block;' href="https://www.catherineslaughter.space/as_tags/">Sort by Topic</a>
+
+<h1 style='text-align:center' class = 'blue'><a href="https://www.catherineslaughter.space/academic_standing/">Academic Standing</a><h1>
+<h2 style='text-align:center' class = 'no-margin'>All Posts</h2>
+<br>
+
+<ul class="no-bullets">
+  {% for post in site.categories.as_blog %}
+    <li>
+      <h2 class="no-margin" style = 'margin-top:15px'><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      {{ post.date | date: "%B %e, %Y" }} <br>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
