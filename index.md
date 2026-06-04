@@ -16,17 +16,17 @@ title: Home
 
 # Introduction
 
-Catherine Slaughter is an early-career astronomer and PhD Candidate at the Minnesota Institute for Astrophysics. Her [research interests](http://www.catherineslaughter.space/research/) are primarily in stellar astronomy, with particular focus on post-main sequence star populations (especially variable stars), and populations of stars in unique environments (like globular culsters). Her current project—co-advised by Prof. Evan Skillman at UMN and Prof. Dan Weisz at UC Berkeley—is a study of RR Lyrae populations in several nearby dwarf galaxies using JWST and HST.
+Hello, I'm Catherine! I am an early-career astronomer and PhD Candidate at the Minnesota Institute for Astrophysics. My [research interests](http://www.catherineslaughter.space/research/) are primarily in stellar and galactic astronomy, with particular focus on post-main sequence star populations (especially variable stars), and populations of stars in unique environments (like globular culsters). I am interested in how we can use stellar populations as a probe to study galaxy formation and evolution. My current project—co-advised by Prof. Evan Skillman at UMN and Prof. Dan Weisz at UC Berkeley—is a study of RR Lyrae populations in several nearby dwarf galaxies using JWST and HST.
 
-Along with her research work, she dedicates herself to the greater astrophysics community through her roles as an [Astrobites](https://astrobites.org/) author, and an organizing committee member for [Virtual Astronomy Software Talks](https://vastseminars.github.io/).
+Prior to my time at the University of Minnesota, I recieved my B.A. in Physics and Astronomy from Dartmouth College in 2021, working with Prof. Brian Chaboyer, and my M.Sc. From Leiden University in 2023, conducting projects with Prof. Xander Tielens and Prof. Matthew Kenworthy.
 
-<!--Prior to her time at the University of Minnesota, she recieved her B.A. in Physics and Astronomy from Dartmouth College in 2021, having worked under Prof. Brian Chaboyer, and her M.Sc. From Leiden University in 2023, conducting projects with Prof. Xander Tielens and Prof. Matthew Kenworthy. -->
+Along with my research work, I contribute to the greater astrophysics community through my roles with the [Astrobites Collaboration](https://astrobites.org/), and as an organizer for [Virtual Astronomy Software Talks](https://vastseminars.github.io/).
 
-Her dedication to research stems from a lifelong love of and dedication to problem solving. This mindset informs the way she goes through the world as a student, a researcher, and (most importantly) a person—there is little in life that can't be tackled with good-faith effort and a little bit of luck. She considers it an honor and a privilege to continue to solve problems in astronomy.
+My dedication to research stems from a lifelong love of problem solving. This mindset informs the way I goes through the world as a student, a researcher, and (most importantly) a person—there is little in life that can't be tackled with good-faith effort and a little bit of luck. I considers it an honor and a privilege to continue to solve problems in astronomy.
 
-She is passionate about [public outreach](http://www.catherineslaughter.space/outreach/) in STEM and believes that encouraging people to engage with science is an absolutely critical part of being a scientist. She believes in affirmative inclusivity in the sciences, and is always looking to work on personal growth and for institutional change. 
+I am passionate about [public outreach](http://www.catherineslaughter.space/outreach/) in STEM and believe that encouraging people to engage with science is an absolutely critical part of being a scientist. I believe in affirmative inclusivity in the sciences, and am always looking to work on personal growth and for institutional change. 
 
-Outside of work, she spends much of her free time rock climbing, reading, listening to or playing music, weightlifting, and hiking. She is also a proud Chicago Cubs baseball fan. During her time in New Hampshire, she developed a love for hiking, kayaking and (of course) climbing, and would love to thru-hike the Appalacian Trail some day.
+Outside of work, I spend much of my free time rock climbing, reading, listening to or playing music, weightlifting, and hiking. During my time in New Hampshire, I developed a love for all things outdoors, and would love to thru-hike the Appalacian Trail some day. I am also a huge baseball fan, and will occasionally dedicate my data analytics and machine learning skills to baseball statistics on my blog, Tools of Ignorance.
 
 <!--### Gallery:
 (Doesn't every astronomer have too many photos in front of various telescope domes?)
