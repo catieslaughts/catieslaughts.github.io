@@ -16,7 +16,7 @@ title: Home
 
 # Introduction
 
-testHello, I'm Catherine! I am an early-career astronomer and PhD Candidate at the Minnesota Institute for Astrophysics. My [research interests](http://www.catherineslaughter.space/research/) are primarily in stellar and galactic astronomy, with particular focus on post-main sequence star populations (especially variable stars), and populations of stars in unique environments (like globular culsters). I am interested in how we can use stellar populations as a probe to study galaxy formation and evolution. My current project—co-advised by Prof. Evan Skillman at UMN and Prof. Dan Weisz at UC Berkeley—is a study of RR Lyrae populations in several nearby dwarf galaxies using JWST and HST.
+Hello, I'm Catherine! I am an early-career astronomer and PhD Candidate at the Minnesota Institute for Astrophysics. My [research interests](http://www.catherineslaughter.space/research/) are primarily in stellar and galactic astronomy, with particular focus on post-main sequence star populations (especially variable stars), and populations of stars in unique environments (like globular culsters). I am interested in how we can use stellar populations as a probe to study galaxy formation and evolution. My current project—co-advised by Prof. Evan Skillman at UMN and Prof. Dan Weisz at UC Berkeley—is a study of RR Lyrae populations in several nearby dwarf galaxies using JWST and HST.
 
 Prior to my time at the University of Minnesota, I recieved my B.A. in Physics and Astronomy from Dartmouth College in 2021, working with Prof. Brian Chaboyer, and my M.Sc. From Leiden University in 2023, conducting projects with Prof. Xander Tielens and Prof. Matthew Kenworthy.
 
