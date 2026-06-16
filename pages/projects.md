@@ -5,12 +5,16 @@ permalink: /projects/
 ---
 # Significant Projects
 (Do you want to <a href='http://www.catherineslaughter.space/games/'>play a game</a>?)
+### 2025
+- _Observing Dwarf Galaxy RR Lyrae Populations with JWST_ <a href="https://sites.dartmouth.edu/galactic-frontiers-2025" target="_blank" >[Poster]</a>
+    - Presented preliminary results for JWST-identified RRL populations in the dwarf galaxies WLM and Leo P
+    - 1/2 Associated publications available now on <a href="https://arxiv.org/abs/2602.21205" target="_blank" >ArXiv</a>
+    <br><img src="../images_pdfs/proj_imgs/GF_poster.jpg" width="60%">
+
 ### 2024
 - _Calibrating the Extragalactic RR Lyrae Population with HST and JWST ERS_ <a href="https://aas244-aas.ipostersessions.com/Default.aspx?s=B2-1B-9B-FE-68-5F-18-6B-B0-D9-BC-28-2E-DB-8B-10" target="_blank" >[iPoster]</a>
-    - Pre-thesis research project
     - Uses overlapping observations from the Hubble and James Webb Space Telescopes to find and analyze periodicity of RR Lyrae stars in nearby dwarf galaxies
     - Implemented and adapted existing MCMC template-fitting code for varying needs of different observation filters
-    - Papers forthcoming
     - Preliminary results for galaxy WLM presented at AAS 244 summer meeting in Madison, WI
     <br><img src="../images_pdfs/proj_imgs/rrlyrae_iposter.jpg" width="60%">
     
