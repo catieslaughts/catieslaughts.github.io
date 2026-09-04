@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 <!--<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">-->
 <p style = "padding : 0; margin : 0;" align="right">
-  <font size="-3">(Updated 30 April, 2026)</font>
+  <font size="-3">(Updated 4 September, 2026)</font>
 </p>
 
 # Curriculum Vitae
@@ -14,6 +14,7 @@ permalink: /cv/
 <br><img src="../images_pdfs/CV/WebsiteCV_pg1.jpg" align = center>
 <br><img src="../images_pdfs/CV/WebsiteCV_pg2.jpg" align = center>
 <br><img src="../images_pdfs/CV/WebsiteCV_pg3.jpg" align = center>
+<br><img src="../images_pdfs/CV/WebsiteCV_pg4.jpg" align = center>
 
 <!--The most recent version of my CV can always be found on <a href="https://www.overleaf.com/read/rgjgxdyfkwcc" target="_blank" >Overleaf</a>-->
 
