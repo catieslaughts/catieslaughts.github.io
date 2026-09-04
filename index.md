@@ -15,7 +15,7 @@ title: Home
 
 <!--<p align="center"><font size="+1"><b>"When we explore the cosmos, we come to believe and prove that we can solve problems that have never been solved. It brings out the best in us."</b></font></p><p align="right"><font size="+1"><b>-Bill Nye</b></font></p>-->
 
-<!--# Introduction
+# Introduction
 
 Hello, I'm Catherine! I am an early-career astronomer and PhD Candidate at the Minnesota Institute for Astrophysics. My [research interests](http://www.catherineslaughter.space/research/) are primarily in stellar and galactic astronomy, with particular focus on post-main sequence star populations (especially variable stars), and populations of stars in unique environments (like globular culsters). I am interested in how we can use stellar populations as a probe to study galaxy formation and evolution. My current project—co-advised by Prof. Evan Skillman at UMN and Prof. Dan Weisz at UC Berkeley—is a study of RR Lyrae populations in several nearby dwarf galaxies using JWST and HST.
 
@@ -27,7 +27,7 @@ My dedication to research stems from a lifelong love of problem solving. This mi
 
 I am passionate about [public outreach](http://www.catherineslaughter.space/outreach/) in STEM and believe that encouraging people to engage with science is an absolutely critical part of being a scientist. I believe in affirmative inclusivity in the sciences, and am always looking to work on personal growth and for institutional change. 
 
-Outside of work, I spend much of my free time rock climbing, reading, listening to or playing music, weightlifting, and hiking. During my time in New Hampshire, I developed a love for all things outdoors, and would love to thru-hike the Appalacian Trail some day. I am also a huge baseball fan, and will occasionally dedicate my data analytics and machine learning skills to baseball statistics on my blog, Tools of Ignorance.-->
+Outside of work, I spend much of my free time rock climbing, reading, listening to or playing music, weightlifting, and hiking. During my time in New Hampshire, I developed a love for all things outdoors, and would love to thru-hike the Appalacian Trail some day. I am also a huge baseball fan, and will occasionally dedicate my data analytics and machine learning skills to baseball statistics on my blog, Tools of Ignorance.
 
 <!--### Gallery:
 (Doesn't every astronomer have too many photos in front of various telescope domes?)
