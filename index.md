@@ -27,7 +27,7 @@ My dedication to research stems from a lifelong love of problem solving. This mi
 
 I am passionate about [public outreach](http://www.catherineslaughter.space/outreach/) in STEM and believe that encouraging people to engage with science is an absolutely critical part of being a scientist. I believe in affirmative inclusivity in the sciences, and am always looking to work on personal growth and for institutional change. 
 
-Outside of work, I spend much of my free time rock climbing, reading, listening to or playing music, weightlifting, and hiking. During my time in New Hampshire, I developed a love for all things outdoors, and would love to thru-hike the Appalacian Trail some day. I am also a huge baseball fan, and will occasionally dedicate my data analytics and machine learning skills to baseball statistics on my blog, Tools of Ignorance.
+Outside of work, I spend much of my free time rock climbing, reading, listening to or playing music, weightlifting, and hiking. During my time in New Hampshire, I developed a love for all things outdoors, and would love to thru-hike the Appalacian Trail some day. I am also a huge baseball fan, and will occasionally dedicate my data analytics and machine learning skills to sports statistics on my blog, [Tools of Ignorance](https://tools-of-ignorance.github.io/).
 
 <!--### Gallery:
 (Doesn't every astronomer have too many photos in front of various telescope domes?)
