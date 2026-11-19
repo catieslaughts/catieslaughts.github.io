@@ -3,7 +3,7 @@ layout: default
 title: Projects
 permalink: /projects/
 ---
-# Significant Projects
+# Posters, Presentations, and other Projects
 (Do you want to <a href='http://www.catherineslaughter.space/games/'>play a game</a>?)
 ### 2025
 - _Observing Dwarf Galaxy RR Lyrae Populations with JWST_ <!--<a href="https://sites.dartmouth.edu/galactic-frontiers-2025" target="_blank" >[Poster]</a>-->
