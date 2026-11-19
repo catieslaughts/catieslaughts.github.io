@@ -8,7 +8,7 @@ permalink: /projects/
 ### 2025
 - _Observing Dwarf Galaxy RR Lyrae Populations with JWST_ <!--<a href="https://sites.dartmouth.edu/galactic-frontiers-2025" target="_blank" >[Poster]</a>-->
     - Presented preliminary results for JWST-identified RRL populations in the dwarf galaxies WLM and Leo P
-    - 1/2 Associated publications available now on <a href="https://arxiv.org/abs/2602.21205" target="_blank" >ArXiv</a>
+    - Associated publications published in <a href="https://iopscience.iop.org/article/10.3847/1538-4357/aeb6b4" target="_blank" >ApJ</a>
     <br><img src="../images_pdfs/proj_imgs/GF_poster.jpg" width="40%">
 
 ### 2024
