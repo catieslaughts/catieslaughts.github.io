@@ -7,7 +7,7 @@ permalink: /publications/
 <style>
   strong {
     color: #727272;
-    font-weight: 200;
+    font-weight: 350;
   }
 </style>
 
