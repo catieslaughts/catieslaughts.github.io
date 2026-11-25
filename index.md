@@ -25,9 +25,7 @@ Prior to my time at the University of Minnesota, I recieved my B.A. in Physics a
 
 My dedication to research stems from a lifelong love of problem solving. This mindset informs the way I goes through the world as a student, a researcher, and (most importantly) a person: there is little in life that can't be tackled with good-faith effort and a little bit of luck. I consider it an honor and a privilege to make a living solving problems in astronomy.
 
-Along with my research work, I contribute to the greater astrophysics community through my roles with the [Astrobites Collaboration](https://astrobites.org/), and as a presenter for [Skype a Scientist](https://www.skypeascientist.com/).
-
-I am passionate about [public outreach](http://www.catherineslaughter.space/outreach/) in STEM and believe that encouraging people to engage with science is an absolutely critical part of being a scientist. I believe in affirmative inclusivity in the sciences, and am always looking to work on personal growth and for institutional change. 
+Along with my research work, I contribute to the greater astrophysics community through my roles with the [Astrobites Collaboration](https://astrobites.org/), and as a presenter for [Skype a Scientist](https://www.skypeascientist.com/). I am passionate about [public outreach](http://www.catherineslaughter.space/outreach/) in STEM and believe that encouraging people to engage with science is an absolutely critical part of being a scientist. I believe in affirmative inclusivity in the sciences, and am always looking to work on personal growth and for institutional change. 
 
 Outside of work, I spend much of my free time rock climbing, reading, listening to or playing music, weightlifting, and hiking. During my time in New Hampshire, I developed a love for all things outdoors, and plan to thru-hike the Appalacian Trail some day. I am also a Chicago and Minnesota sports fan, and will occasionally dedicate my data analytics and machine learning skills to sports statistics on my blog, [Tools of Ignorance](https://tools-of-ignorance.github.io/).
 
