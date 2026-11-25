@@ -15,6 +15,9 @@ permalink: /publications/
 
 # Publications & Posters
 <!--(Also available as a <a href="https://github.com/catieslaughts/catieslaughts.github.io/raw/master/images_pdfs/CV/slaughterpubs.bib" target="_blank">.bib</a> file)-->
+***JWST Observations of Sundry Resolved Variable Sources in the Sagittarius Dwarf Irregular Galaxy***
+_Catherine M. Slaughter_, et al. In Prep.
+
 [***JWST Observations of RR Lyrae in Leo P***](https://iopscience.iop.org/article/10.3847/1538-4357/aeb6b4)\
 _Catherine M. Slaughter_, et al. ApJ, 1012(1):78, November 2026
 
